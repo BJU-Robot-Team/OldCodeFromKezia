@@ -1,0 +1,1 @@
+/home/user/Kezia/Navigation2Motor/CMakeFiles/Nav2Motor.dir

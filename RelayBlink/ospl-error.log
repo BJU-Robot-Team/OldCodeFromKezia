@@ -1,0 +1,1064 @@
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x9c0a0e70, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.413814139
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x740153b0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.413854862
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x9c09bd60, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.413867618
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x9c09bc30, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.413877339
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x9c0a37f0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.413886463
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x74016590, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.413894613
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x740132c0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.413903048
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x9c0a1e90, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.413911319
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x9c09eb80, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.413919859
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x74011750, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.413928087
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x74017ed0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.413940953
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x9c09b400, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.413969904
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x64002220, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.413980287
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x7401be70, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.413988947
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x64069890, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.413997159
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x500181f0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414005515
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x9c0aefd0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414029380
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x6401ca60, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414038971
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x6401eb00, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414047504
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x6401f970, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414059384
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x500189f0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414068211
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x9c0a4960, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414092461
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x9c0a9c20, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414102625
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x9c0a7510, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414111190
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x9c0aafa0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414119590
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x9c0a6ba0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414127883
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x9c0aa5e0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414136337
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x9c0ac320, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414144702
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x9c0ab960, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414156405
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x9c0a52c0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414168847
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x9c0a7ed0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414183297
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x9c0a9260, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414197651
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x9c0a8890, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414211664
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x64006610, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414341044
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x64007fa0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414361446
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x64009820, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414378209
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x6400b0a0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414394991
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x6400c950, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414411111
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x6400e1a0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414432864
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x6400fa20, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414449106
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x640112a0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414464215
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x64012b20, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414480136
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x7401ea10, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414495611
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x6406c4e0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414511230
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x50015c70, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414525982
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x9c0a45b0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414571012
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x9c0a9870, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414590152
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x9c0a7160, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414613871
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x9c0aabf0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414630701
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x9c0a67f0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414646419
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x9c0aa230, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414661966
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x9c0abf70, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414678117
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x9c0ab5b0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414693670
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x9c0a4f10, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414709617
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x9c0a7b20, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414725918
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x9c0a8eb0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414741912
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x9c0a84e0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414763033
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x640060d0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414779341
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x64007b30, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414795219
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x640093b0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414810353
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x6400ac30, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414826207
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x6400c4e0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414841359
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x6400dd30, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414855927
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x6400f5b0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414870588
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x64010e30, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414885492
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x640126b0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414900478
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x7401e5a0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414920797
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x6406bdd0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414935765
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x50015680, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414950762
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x9c0b4170, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.414992167
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x9c0b6ef0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415009735
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x9c0bbba0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415025645
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x9c0bf5e0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415040298
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x9c0c22b0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415055079
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x9c0c47c0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415070537
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x64023000, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415091364
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x64025920, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415107940
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x640293d0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415120682
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x6402bbf0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415129340
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x640301b0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415137936
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x64032cd0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415146284
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x64038280, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415154590
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x6403b050, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415162763
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x64041a80, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415171043
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x640448d0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415182901
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x6404bab0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415191939
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x6404e8b0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415200182
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x64054850, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415208388
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x64057790, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415216574
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x6405b3d0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415224863
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x6405e200, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415233027
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x64062150, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415241373
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x64064f50, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415249354
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x50017200, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415260643
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x9c0b3dc0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415289225
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x9c0b6b40, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415299733
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x9c0bb7f0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415308634
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x9c0bf230, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415317133
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x9c0c1f80, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415325708
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x9c0c4410, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415334015
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x64022ac0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415342248
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x640254b0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415350656
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x640270b0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415359176
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x6402b780, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415371294
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x6402fd40, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415379997
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x64032860, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415388202
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x64037b20, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415396399
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x6403a8f0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415404499
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x64041320, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415412767
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x64044170, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415421668
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x6404b350, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415429946
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x6404e150, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415438117
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x640540f0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415450074
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x64055810, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415458759
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x6405ac70, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415466919
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x6405dc00, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415475402
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x640619f0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415483650
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x640647f0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415491764
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x50016bd0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415504820
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x9c09a4e0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415546250
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x9c0ada20, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415558291
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x74002590, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415570759
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x64001b30, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415579539
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x500179e0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415587785
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x5000cd20, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415612103
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x9c09ab60, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415622215
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x50009e30, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415630586
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x9c0ad440, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415638857
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x50006ea0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415647371
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x74001330, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415655484
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x500147c0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415663688
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x640009d0, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415676770
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 04 18:19:47 EST 2015
+Description : writeHistoricalSample(0x50003760, 0xaacb8d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : RelayBlink <6238>
+Thread      : ddsi2 7f83aacba700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1449271187.415685681

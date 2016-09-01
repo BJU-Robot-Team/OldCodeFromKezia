@@ -1,0 +1,96 @@
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 05 15:31:34 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : occupancy_grid <4433>
+Thread      : spliced 7fe954884700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1446755494.730362177
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 05 15:31:34 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : occupancy_grid <4433>
+Thread      : spliced 7fe954884700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1446755494.736992078
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 05 15:31:34 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : occupancy_grid <4433>
+Thread      : spliced 7fe954884700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1446755494.737285968
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 05 15:31:34 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : occupancy_grid <4433>
+Thread      : spliced 7fe954884700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1446755494.737883219
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 05 15:31:34 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : occupancy_grid <4433>
+Thread      : ddsi2 7fe91fc5f700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1446755494.769048790
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 05 15:31:35 EST 2015
+Description : The durability service can by identified by ID: 1339494657
+Node        : user-Latitude-E6430
+Process     : occupancy_grid <4433>
+Thread      : durability 7fe91ffff700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1446755495.152539909
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 05 15:31:42 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : occupancy_grid <4433>
+Thread      : durability 7fe91ffff700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1446755502.657939052
+========================================================================================
+Report      : WARNING
+Date        : Thu Nov 05 15:47:36 EST 2015
+Description : Missed heartbeat for node - heartbeat id : 202148494. (DCPSPublication state 1)
+Node        : user-Latitude-E6430
+Process     : occupancy_grid <4433>
+Thread      : OSPL Garbage Collector 7fe94c93c700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_spliced/v_spliced.c/2445/0/1446756456.804298602
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 05 15:47:37 EST 2015
+Description : Termination request (signal 1) received from PID 4091, UID 1000
+Node        : user-Latitude-E6430
+Process     : occupancy_grid <4433>
+Thread      : signalHandler 7fe94cf4c700
+Internals   : V6.4.3p1/e718b45/62ef77c/signalHandlerThread/os_signalHandler.c/526/0/1446756457.720826519
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 05 15:47:37 EST 2015
+Description : Received termination request, terminating now.
+Node        : user-Latitude-E6430
+Process     : occupancy_grid <4433>
+Thread      : signalHandler 7fe94cf4c700
+Internals   : V6.4.3p1/e718b45/62ef77c/u__userExitRequestCallbackWrapper/u_user.c/403/0/1446756457.720858604

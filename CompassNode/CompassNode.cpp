@@ -1,0 +1,148 @@
+/* Polysync Compass Node Program by James Reynolds 12/4/15
+
+Supporting code for serial interfacing is sourced from http://stackoverflow.com/questions/18108932/linux-c-serial-port-reading-writing
+
+This program is intended to provide Polysync with data from the compass.*/
+
+#include <iostream>
+#include <string>
+#include <stdlib.h>
+#include <sstream>
+#include <vector>
+#include <polysync_message.hpp>
+#include <polysync_node.hpp>
+#include <stdio.h>      // standard input / output functions
+#include <string.h>     // string function definitions
+#include <unistd.h>     // UNIX standard function definitions
+#include <fcntl.h>      // File control definitions
+#include <errno.h>      // Error number definitions
+#include <termios.h>    // POSIX terminal control definitions
+
+
+//Functions to split the strings up
+std::vector<std::string> &split(const std::string &s, char delim, std::vector<std::string> &elems) {
+    std::stringstream ss(s);
+    std::string item;
+    while (std::getline(ss, item, delim)) {
+        elems.push_back(item);
+    }
+    return elems;
+}
+
+
+std::vector<std::string> split(const std::string &s, char delim) {
+    std::vector<std::string> elems;
+    split(s, delim, elems);
+    return elems;
+}
+
+int main()
+{
+    
+    
+    int USB = open( "/dev/ttyUSB1", O_RDWR| O_NOCTTY );
+    
+    //Initialize and connect to PolySync.
+    polysync::Node node( "Compass" );
+    
+    struct termios tty;
+    struct termios tty_old;
+    memset (&tty, 0, sizeof tty);
+    
+    /* Error Handling */
+    if ( tcgetattr ( USB, &tty ) != 0 ) {
+        std::cout << "Error " << errno << " from tcgetattr: " << strerror(errno) << std::endl;
+    }
+    
+    /* Save old tty parameters */
+    tty_old = tty;
+    
+    /* Set Baud Rate */
+    cfsetospeed (&tty, (speed_t)115200);
+    cfsetispeed (&tty, (speed_t)115200);
+    
+    /* Setting other Port Stuff */
+    tty.c_cflag     &=  ~PARENB;            // Make 8n1
+    tty.c_cflag     &=  ~CSTOPB;
+    tty.c_cflag     &=  ~CSIZE;
+    tty.c_cflag     |=  CS8;
+    
+    tty.c_cflag     &=  ~CRTSCTS;           // no flow control
+    tty.c_cc[VMIN]   =  1;                  // read doesn't block
+    tty.c_cc[VTIME]  =  5;                  // 0.5 seconds read timeout
+    tty.c_cflag     |=  CREAD | CLOCAL;     // turn on READ & ignore ctrl lines
+    
+    /* Make raw */
+    cfmakeraw(&tty);
+    
+    /* Flush Port, then applies attributes */
+    tcflush( USB, TCIFLUSH );
+    if ( tcsetattr ( USB, TCSANOW, &tty ) != 0) {
+        std::cout << "Error " << errno << " from tcsetattr" << std::endl;
+    }
+    
+    //Loop until we get a ctrl-c
+    while( ! node.exitSignal() )
+    {
+        int n = 0,
+        spot = 0;
+        char buf = '\0';
+        
+        /* Whole response*/
+        char response[1024];
+        memset(response, '\0', sizeof response);
+        
+        do {
+            n = read( USB, &buf, 1 );
+            sprintf( &response[spot], "%c", buf );
+            spot += n;
+        } while( buf != '\r' && n > 0);
+        
+        if (n < 0) {
+            std::cout << "Error reading: " << strerror(errno) << std::endl;
+        }
+        else if (n == 0) {
+            std::cout << "Read nothing!" << std::endl;
+        }
+        else {
+            std::cout << "Response: " << response << std::endl;
+        }
+        //Split up the heading
+        std::vector<std::string> split1 = split(response, 'P');
+        std::string heading = split1[0];
+        heading.erase(0,3);
+        float heading_val= stof(heading,NULL);
+        float heading_valrad = (heading_val/180)*3.1415926;
+        
+        //Split up the pitch angle
+        std::vector<std::string> split2 = split(split1[1], 'R');
+        std::string pitch = split2[0];
+        float pitch_val = stof(pitch,NULL);
+        
+        //Split up the roll angle
+        
+        std::vector<std::string> split3 = split(split2[1], 'T');
+        std::string roll = split3[0];
+        float roll_val = stof(roll,NULL);
+        
+        //Display the stuff
+        std::cout<<"Heading: "<< heading_val <<std::endl;
+        std::cout<<"Pitch: "<< pitch_val <<std::endl;
+        std::cout<<"Roll: "<< roll_val <<std::endl;
+        
+        
+        //Create a message
+        //polysync::message::PlatformMotion cps_message;
+        
+        //Update message
+        //cps_message.setHeading(heading_valrad);
+        
+        //Publish the message to PolySync
+        //polysync::message::publish( cps_message );
+        
+    }
+    return 0;
+   	exit(EXIT_SUCCESS);
+}
+
+

@@ -1,0 +1,15 @@
+Build and run:
+
+cd <path_to_your_directory> (e.g cd home/kevinbacon/projects/simple_reader_example/ )
+cmake .
+make
+
+Run executable:
+
+#cd to simplereader directory
+./simplereader
+#cd to simplewriter directory
+./simplewriter
+
+Exit:
+Control-C

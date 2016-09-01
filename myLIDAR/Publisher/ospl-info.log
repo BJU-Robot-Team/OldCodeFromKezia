@@ -1,0 +1,556 @@
+========================================================================================
+Report      : INFO
+Date        : Thu Sep 24 15:50:24 EDT 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <9631>
+Thread      : spliced 7fe1ecb94700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1443124224.298968992
+========================================================================================
+Report      : INFO
+Date        : Thu Sep 24 15:50:24 EDT 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <9631>
+Thread      : spliced 7fe1ecb94700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1443124224.304938858
+========================================================================================
+Report      : INFO
+Date        : Thu Sep 24 15:50:24 EDT 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <9631>
+Thread      : spliced 7fe1ecb94700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1443124224.305229268
+========================================================================================
+Report      : INFO
+Date        : Thu Sep 24 15:50:24 EDT 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <9631>
+Thread      : spliced 7fe1ecb94700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1443124224.305612873
+========================================================================================
+Report      : INFO
+Date        : Thu Sep 24 15:50:24 EDT 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <9631>
+Thread      : ddsi2 7fe1e4189700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1443124224.325195908
+========================================================================================
+Report      : INFO
+Date        : Thu Sep 24 15:50:24 EDT 2015
+Description : The durability service can by identified by ID: 872370181
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <9631>
+Thread      : durability 7fe1e453a700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1443124224.519960332
+========================================================================================
+Report      : INFO
+Date        : Thu Sep 24 15:50:32 EDT 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <9631>
+Thread      : durability 7fe1e453a700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1443124232.024137937
+========================================================================================
+Report      : INFO
+Date        : Thu Sep 24 16:08:11 EDT 2015
+Description : Termination request (signal 2) received from PID 9631 (self), UID 1000
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <9631>
+Thread      : signalHandler 7fe1e525c700
+Internals   : V6.4.3p1/e718b45/62ef77c/signalHandlerThread/os_signalHandler.c/526/0/1443125291.927236947
+========================================================================================
+Report      : WARNING
+Date        : Thu Sep 24 16:08:12 EDT 2015
+Description : Missed heartbeat for node - heartbeat id : 410526112. (DCPSPublication state 1)
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <9631>
+Thread      : OSPL Garbage Collector 7fe1e4e5b700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_spliced/v_spliced.c/2445/0/1443125292.353572165
+========================================================================================
+Report      : INFO
+Date        : Thu Sep 24 16:11:48 EDT 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <10147>
+Thread      : spliced 7f656187b700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1443125508.266293271
+========================================================================================
+Report      : INFO
+Date        : Thu Sep 24 16:11:48 EDT 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <10147>
+Thread      : spliced 7f656187b700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1443125508.272278455
+========================================================================================
+Report      : INFO
+Date        : Thu Sep 24 16:11:48 EDT 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <10147>
+Thread      : spliced 7f656187b700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1443125508.272500307
+========================================================================================
+Report      : INFO
+Date        : Thu Sep 24 16:11:48 EDT 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <10147>
+Thread      : spliced 7f656187b700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1443125508.272921231
+========================================================================================
+Report      : INFO
+Date        : Thu Sep 24 16:11:48 EDT 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <10147>
+Thread      : ddsi2 7f6558c94700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1443125508.289053946
+========================================================================================
+Report      : INFO
+Date        : Thu Sep 24 16:11:48 EDT 2015
+Description : The durability service can by identified by ID: 1962892799
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <10147>
+Thread      : durability 7f6559012700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1443125508.388268275
+========================================================================================
+Report      : INFO
+Date        : Thu Sep 24 16:11:55 EDT 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <10147>
+Thread      : durability 7f6559012700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1443125515.892940239
+========================================================================================
+Report      : INFO
+Date        : Thu Sep 24 16:14:12 EDT 2015
+Description : Termination request (signal 2) received from PID 10147 (self), UID 1000
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <10147>
+Thread      : signalHandler 7f6559f43700
+Internals   : V6.4.3p1/e718b45/62ef77c/signalHandlerThread/os_signalHandler.c/526/0/1443125652.967840234
+========================================================================================
+Report      : INFO
+Date        : Fri Oct 02 15:50:58 EDT 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <25166>
+Thread      : spliced 7f78c3e36700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1443815458.587412120
+========================================================================================
+Report      : INFO
+Date        : Fri Oct 02 15:50:58 EDT 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <25166>
+Thread      : spliced 7f78c3e36700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1443815458.608722479
+========================================================================================
+Report      : INFO
+Date        : Fri Oct 02 15:50:58 EDT 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <25166>
+Thread      : spliced 7f78c3e36700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1443815458.613506434
+========================================================================================
+Report      : INFO
+Date        : Fri Oct 02 15:50:58 EDT 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <25166>
+Thread      : spliced 7f78c3e36700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1443815458.616553147
+========================================================================================
+Report      : INFO
+Date        : Fri Oct 02 15:50:58 EDT 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <25166>
+Thread      : ddsi2 7f78b71d2700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1443815458.675858596
+========================================================================================
+Report      : INFO
+Date        : Fri Oct 02 15:50:59 EDT 2015
+Description : The durability service can by identified by ID: 478246688
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <25166>
+Thread      : durability 7f78b7550700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1443815459.154463535
+========================================================================================
+Report      : INFO
+Date        : Fri Oct 02 15:51:06 EDT 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <25166>
+Thread      : durability 7f78b7550700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1443815466.659221825
+========================================================================================
+Report      : WARNING
+Date        : Fri Oct 02 15:58:32 EDT 2015
+Description : thread recv failed to make progress
+
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <25166>
+Thread      : lease 7f78bc016700
+Internals   : V6.4.3p1/e718b45/62ef77c/ddsi2/q_servicelease.c/109/0/1443815912.139008163
+========================================================================================
+Report      : WARNING
+Date        : Fri Oct 02 15:58:33 EDT 2015
+Description : thread recv once again made progress
+
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <25166>
+Thread      : lease 7f78bc016700
+Internals   : V6.4.3p1/e718b45/62ef77c/ddsi2/q_servicelease.c/109/0/1443815913.510108446
+========================================================================================
+Report      : WARNING
+Date        : Fri Oct 02 15:58:57 EDT 2015
+Description : thread xmit.user failed to make progress
+
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <25166>
+Thread      : lease 7f78bc016700
+Internals   : V6.4.3p1/e718b45/62ef77c/ddsi2/q_servicelease.c/109/0/1443815937.280112287
+========================================================================================
+Report      : WARNING
+Date        : Fri Oct 02 15:58:58 EDT 2015
+Description : thread xmit.user once again made progress
+
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <25166>
+Thread      : lease 7f78bc016700
+Internals   : V6.4.3p1/e718b45/62ef77c/ddsi2/q_servicelease.c/109/0/1443815938.822605032
+========================================================================================
+Report      : INFO
+Date        : Fri Oct 02 16:27:36 EDT 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <2677>
+Thread      : spliced 7efefd0be700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1443817656.332052627
+========================================================================================
+Report      : INFO
+Date        : Fri Oct 02 16:27:36 EDT 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <2677>
+Thread      : spliced 7efefd0be700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1443817656.355117610
+========================================================================================
+Report      : INFO
+Date        : Fri Oct 02 16:27:36 EDT 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <2677>
+Thread      : spliced 7efefd0be700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1443817656.355412646
+========================================================================================
+Report      : INFO
+Date        : Fri Oct 02 16:27:36 EDT 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <2677>
+Thread      : spliced 7efefd0be700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1443817656.355909874
+========================================================================================
+Report      : INFO
+Date        : Fri Oct 02 16:27:36 EDT 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <2677>
+Thread      : ddsi2 7efef44d7700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1443817656.405063095
+========================================================================================
+Report      : INFO
+Date        : Fri Oct 02 16:27:37 EDT 2015
+Description : The durability service can by identified by ID: 1644787607
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <2677>
+Thread      : durability 7efef4855700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1443817657.175561317
+========================================================================================
+Report      : INFO
+Date        : Fri Oct 02 16:27:44 EDT 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <2677>
+Thread      : durability 7efef4855700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1443817664.680673848
+========================================================================================
+Report      : INFO
+Date        : Fri Oct 02 16:29:08 EDT 2015
+Description : Termination request (signal 2) received from PID 2677 (self), UID 1000
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <2677>
+Thread      : signalHandler 7efef5786700
+Internals   : V6.4.3p1/e718b45/62ef77c/signalHandlerThread/os_signalHandler.c/526/0/1443817748.819628231
+========================================================================================
+Report      : INFO
+Date        : Fri Oct 02 16:39:08 EDT 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <2984>
+Thread      : spliced 7f76c6906700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1443818348.937643173
+========================================================================================
+Report      : INFO
+Date        : Fri Oct 02 16:39:08 EDT 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <2984>
+Thread      : spliced 7f76c6906700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1443818348.946665700
+========================================================================================
+Report      : INFO
+Date        : Fri Oct 02 16:39:08 EDT 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <2984>
+Thread      : spliced 7f76c6906700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1443818348.946933348
+========================================================================================
+Report      : INFO
+Date        : Fri Oct 02 16:39:08 EDT 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <2984>
+Thread      : spliced 7f76c6906700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1443818348.947399827
+========================================================================================
+Report      : INFO
+Date        : Fri Oct 02 16:39:08 EDT 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <2984>
+Thread      : ddsi2 7f76bdcec700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1443818348.976001299
+========================================================================================
+Report      : INFO
+Date        : Fri Oct 02 16:39:09 EDT 2015
+Description : The durability service can by identified by ID: 530137211
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <2984>
+Thread      : durability 7f76be09d700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1443818349.267511788
+========================================================================================
+Report      : INFO
+Date        : Fri Oct 02 16:39:16 EDT 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <2984>
+Thread      : durability 7f76be09d700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1443818356.771784278
+========================================================================================
+Report      : WARNING
+Date        : Sat Oct 03 12:10:15 EDT 2015
+Description : Missed heartbeat for node - heartbeat id : 1286274687. (DCPSPublication state 1)
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <2984>
+Thread      : OSPL Garbage Collector 7f76be9be700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_spliced/v_spliced.c/2445/0/1443888615.682375485
+========================================================================================
+Report      : WARNING
+Date        : Sat Oct 03 12:31:19 EDT 2015
+Description : Missed heartbeat for node - heartbeat id : 1197111123. (DCPSPublication state 1)
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <2984>
+Thread      : OSPL Garbage Collector 7f76be9be700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_spliced/v_spliced.c/2445/0/1443889879.743487806
+========================================================================================
+Report      : WARNING
+Date        : Sat Oct 03 12:48:01 EDT 2015
+Description : Missed heartbeat for node - heartbeat id : 2106410071. (DCPSPublication state 1)
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <2984>
+Thread      : OSPL Garbage Collector 7f76be9be700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_spliced/v_spliced.c/2445/0/1443890881.767641108
+========================================================================================
+Report      : WARNING
+Date        : Sat Oct 03 12:49:19 EDT 2015
+Description : Missed heartbeat for node - heartbeat id : 94024400. (DCPSPublication state 1)
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <2984>
+Thread      : OSPL Garbage Collector 7f76be9be700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_spliced/v_spliced.c/2445/0/1443890959.774760836
+========================================================================================
+Report      : INFO
+Date        : Sat Oct 03 13:03:52 EDT 2015
+Description : Termination request (signal 2) received from PID 2984 (self), UID 1000
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <2984>
+Thread      : signalHandler 7f76befce700
+Internals   : V6.4.3p1/e718b45/62ef77c/signalHandlerThread/os_signalHandler.c/526/0/1443891832.498321038
+========================================================================================
+Report      : INFO
+Date        : Sat Oct 03 13:05:50 EDT 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <6161>
+Thread      : spliced 7ff3c9e03700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1443891950.556338612
+========================================================================================
+Report      : INFO
+Date        : Sat Oct 03 13:05:50 EDT 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <6161>
+Thread      : spliced 7ff3c9e03700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1443891950.565785797
+========================================================================================
+Report      : INFO
+Date        : Sat Oct 03 13:05:50 EDT 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <6161>
+Thread      : spliced 7ff3c9e03700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1443891950.566030692
+========================================================================================
+Report      : INFO
+Date        : Sat Oct 03 13:05:50 EDT 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <6161>
+Thread      : spliced 7ff3c9e03700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1443891950.573070754
+========================================================================================
+Report      : INFO
+Date        : Sat Oct 03 13:05:50 EDT 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <6161>
+Thread      : ddsi2 7ff3c121c700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1443891950.646746842
+========================================================================================
+Report      : INFO
+Date        : Sat Oct 03 13:05:50 EDT 2015
+Description : The durability service can by identified by ID: 257742803
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <6161>
+Thread      : durability 7ff3c159a700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1443891950.738559088
+========================================================================================
+Report      : INFO
+Date        : Sat Oct 03 13:05:58 EDT 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <6161>
+Thread      : durability 7ff3c159a700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1443891958.243337048
+========================================================================================
+Report      : WARNING
+Date        : Sat Oct 03 13:30:46 EDT 2015
+Description : Missed heartbeat for node - heartbeat id : 1369676678. (DCPSPublication state 1)
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <6161>
+Thread      : OSPL Garbage Collector 7ff3c1ebb700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_spliced/v_spliced.c/2445/0/1443893446.638030030
+========================================================================================
+Report      : INFO
+Date        : Sat Oct 03 13:47:24 EDT 2015
+Description : Termination request (signal 2) received from PID 6161 (self), UID 1000
+Node        : user-Latitude-E6430
+Process     : LIDAR_PUBLISHER <6161>
+Thread      : signalHandler 7ff3c24cb700
+Internals   : V6.4.3p1/e718b45/62ef77c/signalHandlerThread/os_signalHandler.c/526/0/1443894444.496293822

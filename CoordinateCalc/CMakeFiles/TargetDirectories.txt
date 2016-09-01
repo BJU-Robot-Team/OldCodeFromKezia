@@ -1,0 +1,1 @@
+/home/user/Kezia/CoordinateCalc/CMakeFiles/coordcalc.dir

@@ -1,0 +1,968 @@
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0xc00a3ea0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.644056165
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x980153c0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.644120372
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0xc009bd80, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.644143213
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0xc009b9f0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.644161097
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0xc00a37c0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.644178216
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x980165a0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.644194924
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x980132d0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.644211935
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0xc00a1e50, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.644228770
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0xc009ebe0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.644245678
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x98011760, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.644262425
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x98017ee0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.644287553
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0xc009b440, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.644343631
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x88002230, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.644365104
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x9801be80, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.644382621
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x88069500, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.644399673
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0xc00aeb00, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.644446708
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x8801ca70, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.644467074
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x8801eb10, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.644484614
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x8801f980, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.644501422
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0xc00a4930, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.644555644
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0xc00a9c50, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.644576455
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0xc00a7540, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.644593797
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0xc00aafd0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.644610832
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0xc00a6bc0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.644627781
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0xc00aa610, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.644644799
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0xc00ac350, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.644661420
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0xc00ab990, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.644678130
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0xc00a5290, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.644694954
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0xc00a7f00, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.644718695
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0xc00a9290, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.644736482
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0xc00a88c0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.644753775
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x88006620, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.644770509
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x88007fb0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.644787427
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x88009830, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.644804358
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x8800b0b0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.644821146
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x8800c960, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.644837964
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x8800e1b0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.644854705
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x8800fa30, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.644878047
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x880112b0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.644895477
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x88012b30, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.644912555
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x9801ecf0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.644929607
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x8806c1c0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.644946438
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0xc00a13f0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.644995300
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0xc00a98a0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.645015997
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0xc00a7190, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.645033366
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0xc00aac20, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.645050408
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0xc00a6810, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.645074569
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0xc00aa260, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.645092300
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0xc00abfa0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.645109144
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0xc00ab5e0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.645125959
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0xc00a4ee0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.645142800
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0xc00a7b50, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.645159879
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0xc00a8ee0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.645176887
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0xc00a8510, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.645193588
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x880060e0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.645210155
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x88007b40, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.645232718
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x880093c0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.645250722
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x8800ac40, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.645267841
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x8800c4f0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.645284937
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x8800dd40, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.645302052
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x8800f5c0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.645318813
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x88010e40, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.645335851
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x880126c0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.645352609
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x9801e880, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.645369239
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x8806baa0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.645414392
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0xc00b4150, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.645495121
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0xc00b6ed0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.645510560
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0xc00bbb90, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.645531491
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0xc00bf5d0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.645542288
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0xc00c22d0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.645552736
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0xc00c47d0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.645578453
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x88023020, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.645596591
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x88025980, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.645613473
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x88029440, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.645638587
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x8802bc00, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.645656114
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x880301e0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.645672725
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x88032d20, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.645689255
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x88038300, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.645705788
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x8803b100, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.645722114
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x880417b0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.645738842
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x880445c0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.645755389
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x8804b7a0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.645771966
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x8804e5a0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.645794950
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x88054540, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.645812028
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x88057470, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.645828599
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x8805b160, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.645845433
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x8805df90, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.645861826
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x88061eb0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.645878350
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x88064cc0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.645895007
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0xc00b3da0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.645946530
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0xc00b6b20, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.645967271
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0xc00bb7e0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.645984858
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0xc00bf220, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.646009059
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0xc00c1f70, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.646026696
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0xc00c4420, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.646043537
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x88022ae0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.646060151
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x88025510, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.646076835
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x88028fd0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.646093569
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x8802b790, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.646110136
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x8802fd70, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.646126409
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x880328b0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.646142672
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x88037ba0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.646165221
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x8803a9a0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.646182393
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x88041050, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.646199245
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x88042dd0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.646216012
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x8804b040, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.646232569
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x8804df50, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.646249022
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x88053de0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.646265495
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x88056e30, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.646281728
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x8805aa00, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.646298044
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x8805d830, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.646320527
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x88061750, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.646337535
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x88064560, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.646354132
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0xc009a4e0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.646403910
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0xc00ada40, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.646424483
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x980025a0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.646442120
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x88001b10, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.646459179
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0xc009ab60, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.646505709
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0xc00ad460, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.646525420
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x98001330, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.646549464
+========================================================================================
+Report      : ERROR
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : writeHistoricalSample(0x880009d0, 0xcc385d80) failed with result 9.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_group::writeHistoricalSample/v_group.c/3546/0/1447449321.646567101

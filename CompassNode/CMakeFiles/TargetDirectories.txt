@@ -1,0 +1,1 @@
+/home/user/Kezia/CompassNode/CMakeFiles/CompassNode.dir

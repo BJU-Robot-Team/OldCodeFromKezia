@@ -1,0 +1,302 @@
+========================================================================================
+Report      : WARNING
+Date        : Fri Nov 13 16:15:14 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7795>
+Thread      : P@ 7fe6822ed740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1447449314.908937553
+========================================================================================
+Report      : WARNING
+Date        : Fri Nov 13 16:15:14 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7795>
+Thread      : P@ 7fe6822ed740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1447449314.909009937
+========================================================================================
+Report      : WARNING
+Date        : Fri Nov 13 16:15:14 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7795>
+Thread      : P@ 7fe6822ed740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1447449314.909032440
+========================================================================================
+Report      : WARNING
+Date        : Fri Nov 13 16:15:14 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7795>
+Thread      : P@ 7fe6822ed740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1447449314.909049391
+========================================================================================
+Report      : WARNING
+Date        : Fri Nov 13 16:15:14 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7795>
+Thread      : P@ 7fe6822ed740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1447449314.909065350
+========================================================================================
+Report      : WARNING
+Date        : Fri Nov 13 16:15:14 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7795>
+Thread      : P@ 7fe6822ed740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1447449314.909080980
+========================================================================================
+Report      : WARNING
+Date        : Fri Nov 13 16:15:14 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7795>
+Thread      : P@ 7fe6822ed740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1447449314.909096571
+========================================================================================
+Report      : WARNING
+Date        : Fri Nov 13 16:15:14 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7795>
+Thread      : P@ 7fe6822ed740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1447449314.909112134
+========================================================================================
+Report      : WARNING
+Date        : Fri Nov 13 16:15:14 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7795>
+Thread      : P@ 7fe6822ed740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1447449314.909127685
+========================================================================================
+Report      : WARNING
+Date        : Fri Nov 13 16:15:14 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7795>
+Thread      : P@ 7fe6822ed740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1447449314.909151495
+========================================================================================
+Report      : WARNING
+Date        : Fri Nov 13 16:15:14 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7795>
+Thread      : P@ 7fe6822ed740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1447449314.909168400
+========================================================================================
+Report      : WARNING
+Date        : Fri Nov 13 16:15:14 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7795>
+Thread      : P@ 7fe6822ed740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1447449314.909184201
+========================================================================================
+Report      : WARNING
+Date        : Fri Nov 13 16:15:14 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7795>
+Thread      : P@ 7fe6822ed740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1447449314.909199738
+========================================================================================
+Report      : WARNING
+Date        : Fri Nov 13 16:15:14 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7795>
+Thread      : P@ 7fe6822ed740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1447449314.909215188
+========================================================================================
+Report      : WARNING
+Date        : Fri Nov 13 16:15:14 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7795>
+Thread      : P@ 7fe6822ed740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1447449314.909230692
+========================================================================================
+Report      : WARNING
+Date        : Fri Nov 13 16:15:14 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7795>
+Thread      : P@ 7fe6822ed740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1447449314.909246406
+========================================================================================
+Report      : WARNING
+Date        : Fri Nov 13 16:15:14 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7795>
+Thread      : P@ 7fe6822ed740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1447449314.909261835
+========================================================================================
+Report      : WARNING
+Date        : Fri Nov 13 16:15:14 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7795>
+Thread      : P@ 7fe6822ed740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1447449314.909277332
+========================================================================================
+Report      : WARNING
+Date        : Fri Nov 13 16:15:14 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7795>
+Thread      : P@ 7fe6822ed740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1447449314.909299126
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 13 16:26:07 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <8188>
+Thread      : spliced 7f2dea3bc700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1447449967.163406341
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 13 16:26:07 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <8188>
+Thread      : spliced 7f2dea3bc700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1447449967.171457060
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 13 16:26:07 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <8188>
+Thread      : spliced 7f2dea3bc700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1447449967.171720902
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 13 16:26:07 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <8188>
+Thread      : spliced 7f2dea3bc700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1447449967.172066886
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 13 16:26:07 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <8188>
+Thread      : ddsi2 7f2dde481700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1447449967.187467416
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 13 16:26:07 EST 2015
+Description : The durability service can by identified by ID: 679976596
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <8188>
+Thread      : durability 7f2dde832700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1447449967.393903936
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 13 16:26:36 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <8262>
+Thread      : spliced 7f408f051700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1447449996.078163687
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 13 16:26:36 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <8262>
+Thread      : spliced 7f408f051700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1447449996.092055942
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 13 16:26:36 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <8262>
+Thread      : spliced 7f408f051700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1447449996.092418711
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 13 16:26:36 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <8262>
+Thread      : spliced 7f408f051700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1447449996.093247252
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 13 16:26:36 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <8262>
+Thread      : ddsi2 7f407f10d700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1447449996.117845125
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 13 16:26:36 EST 2015
+Description : The durability service can by identified by ID: 2026853695
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <8262>
+Thread      : durability 7f407f4be700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1447449996.313056120
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 13 16:26:43 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <8262>
+Thread      : durability 7f407f4be700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1447450003.819427701
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 13 16:26:54 EST 2015
+Description : Termination request (signal 1) received from PID 8089, UID 1000
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <8262>
+Thread      : signalHandler 7f4084409700
+Internals   : V6.4.3p1/e718b45/62ef77c/signalHandlerThread/os_signalHandler.c/526/0/1447450014.118395759
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 13 16:26:54 EST 2015
+Description : Received termination request, terminating now.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <8262>
+Thread      : signalHandler 7f4084409700
+Internals   : V6.4.3p1/e718b45/62ef77c/u__userExitRequestCallbackWrapper/u_user.c/403/0/1447450014.118437472

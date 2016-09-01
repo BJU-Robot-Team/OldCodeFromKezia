@@ -1,0 +1,88 @@
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : spliced 7fd0d82c2700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1447449321.617379992
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : spliced 7fd0d82c2700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1447449321.628007653
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : spliced 7fd0d82c2700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1447449321.628304028
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : spliced 7fd0d82c2700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1447449321.628668674
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : ddsi2 7fd0cc387700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1447449321.646962785
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 13 16:15:21 EST 2015
+Description : The durability service can by identified by ID: 1444547356
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : durability 7fd0cc738700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1447449321.745597236
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 13 16:15:41 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : durability 7fd0cc738700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1447449341.058494244
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 13 16:16:56 EST 2015
+Description : Termination request (signal 1) received from PID 7411, UID 1000
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : signalHandler 7fd0cd67a700
+Internals   : V6.4.3p1/e718b45/62ef77c/signalHandlerThread/os_signalHandler.c/526/0/1447449416.220203095
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 13 16:16:56 EST 2015
+Description : Received termination request, terminating now.
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <7797>
+Thread      : signalHandler 7fd0cd67a700
+Internals   : V6.4.3p1/e718b45/62ef77c/u__userExitRequestCallbackWrapper/u_user.c/403/0/1447449416.220252504

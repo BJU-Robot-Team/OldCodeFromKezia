@@ -1,0 +1,34 @@
+#include <message.h>
+#include <node.h>
+ 
+int main()
+{
+    //Initialize and connect to PolySync.
+    polysync::Node node( "LiDAR Publisher" );
+ 
+    //Loop until we get a ctrl-c
+    while( ! node.exitSignal() )
+    {
+        //Create a message
+        polysync::message::LiDARPointStream pointStream;
+       
+        //Set the length of the stream buffer
+        pointStream.setStreamLength( 10 );
+          
+        for( auto i = 0.0; i < 10.0; ++i )
+        {
+            //Add a point to the stream buffer, we'll use the value of i to increment the x position
+            pointStream.streamPushBack
+            (
+                { LAYER_NONE, ECHO_NONE, POINT_NONE, 0.0, { i, 0.0, 5.0 } }
+            );
+        }
+       
+        //Publish the message to PolySync
+        polysync::message::publish( pointStream );
+ 
+        //Wait for a second before we repeat
+        sleep( 1 );
+    }
+    return 0;
+}

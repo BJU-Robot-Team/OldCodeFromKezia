@@ -1,0 +1,1424 @@
+========================================================================================
+Report      : INFO
+Date        : Mon Nov 23 19:13:15 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : GPSNode <13686>
+Thread      : spliced 7f40b3ae4700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1448323995.694087670
+========================================================================================
+Report      : INFO
+Date        : Mon Nov 23 19:13:15 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : GPSNode <13686>
+Thread      : spliced 7f40b3ae4700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1448323995.706838678
+========================================================================================
+Report      : INFO
+Date        : Mon Nov 23 19:13:15 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : GPSNode <13686>
+Thread      : spliced 7f40b3ae4700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1448323995.707630426
+========================================================================================
+Report      : INFO
+Date        : Mon Nov 23 19:13:15 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : GPSNode <13686>
+Thread      : spliced 7f40b3ae4700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1448323995.708327856
+========================================================================================
+Report      : INFO
+Date        : Mon Nov 23 19:13:15 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : GPSNode <13686>
+Thread      : ddsi2 7f40aaeca700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1448323995.728930346
+========================================================================================
+Report      : INFO
+Date        : Mon Nov 23 19:13:15 EST 2015
+Description : The durability service can by identified by ID: 1950841171
+Node        : user-Latitude-E6430
+Process     : GPSNode <13686>
+Thread      : durability 7f40ab27b700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1448323995.828265485
+========================================================================================
+Report      : INFO
+Date        : Mon Nov 23 19:13:22 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : GPSNode <13686>
+Thread      : durability 7f40ab27b700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1448324002.833003956
+========================================================================================
+Report      : INFO
+Date        : Mon Nov 23 19:13:38 EST 2015
+Description : Termination request (signal 2) received from PID 13686 (self), UID 1000
+Node        : user-Latitude-E6430
+Process     : GPSNode <13686>
+Thread      : signalHandler 7f40ac1ac700
+Internals   : V6.4.3p1/e718b45/62ef77c/signalHandlerThread/os_signalHandler.c/526/0/1448324018.615443946
+========================================================================================
+Report      : INFO
+Date        : Tue Nov 24 08:14:09 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : GPSNode <15150>
+Thread      : spliced 7f506a241700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1448370849.702409950
+========================================================================================
+Report      : INFO
+Date        : Tue Nov 24 08:14:09 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : GPSNode <15150>
+Thread      : spliced 7f506a241700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1448370849.714905398
+========================================================================================
+Report      : INFO
+Date        : Tue Nov 24 08:14:09 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : GPSNode <15150>
+Thread      : spliced 7f506a241700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1448370849.715596153
+========================================================================================
+Report      : INFO
+Date        : Tue Nov 24 08:14:09 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : GPSNode <15150>
+Thread      : spliced 7f506a241700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1448370849.716539054
+========================================================================================
+Report      : INFO
+Date        : Tue Nov 24 08:14:09 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : GPSNode <15150>
+Thread      : ddsi2 7f5061627700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1448370849.746019802
+========================================================================================
+Report      : INFO
+Date        : Tue Nov 24 08:14:09 EST 2015
+Description : The durability service can by identified by ID: 611620317
+Node        : user-Latitude-E6430
+Process     : GPSNode <15150>
+Thread      : durability 7f50619d8700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1448370849.844014154
+========================================================================================
+Report      : INFO
+Date        : Tue Nov 24 08:17:42 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : GPSNode <15335>
+Thread      : spliced 7f833e7b8700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1448371062.339276733
+========================================================================================
+Report      : INFO
+Date        : Tue Nov 24 08:17:42 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : GPSNode <15335>
+Thread      : spliced 7f833e7b8700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1448371062.349918532
+========================================================================================
+Report      : INFO
+Date        : Tue Nov 24 08:17:42 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : GPSNode <15335>
+Thread      : spliced 7f833e7b8700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1448371062.350257801
+========================================================================================
+Report      : INFO
+Date        : Tue Nov 24 08:17:42 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : GPSNode <15335>
+Thread      : spliced 7f833e7b8700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1448371062.350929284
+========================================================================================
+Report      : INFO
+Date        : Tue Nov 24 08:17:42 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : GPSNode <15335>
+Thread      : ddsi2 7f8335b9e700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1448371062.365415838
+========================================================================================
+Report      : INFO
+Date        : Tue Nov 24 08:17:42 EST 2015
+Description : The durability service can by identified by ID: 1576360434
+Node        : user-Latitude-E6430
+Process     : GPSNode <15335>
+Thread      : durability 7f8335f4f700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1448371062.468010755
+========================================================================================
+Report      : INFO
+Date        : Tue Nov 24 08:17:49 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : GPSNode <15335>
+Thread      : durability 7f8335f4f700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1448371069.472703400
+========================================================================================
+Report      : INFO
+Date        : Tue Nov 24 08:18:20 EST 2015
+Description : Termination request (signal 2) received from PID 15335 (self), UID 1000
+Node        : user-Latitude-E6430
+Process     : GPSNode <15335>
+Thread      : signalHandler 7f8336e80700
+Internals   : V6.4.3p1/e718b45/62ef77c/signalHandlerThread/os_signalHandler.c/526/0/1448371100.263578102
+========================================================================================
+Report      : INFO
+Date        : Tue Nov 24 08:38:04 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : GPSNode <15693>
+Thread      : spliced 7fab81bd7700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1448372284.843681426
+========================================================================================
+Report      : INFO
+Date        : Tue Nov 24 08:38:04 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : GPSNode <15693>
+Thread      : spliced 7fab81bd7700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1448372284.855981689
+========================================================================================
+Report      : INFO
+Date        : Tue Nov 24 08:38:04 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : GPSNode <15693>
+Thread      : spliced 7fab81bd7700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1448372284.856556091
+========================================================================================
+Report      : INFO
+Date        : Tue Nov 24 08:38:04 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : GPSNode <15693>
+Thread      : spliced 7fab81bd7700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1448372284.857648453
+========================================================================================
+Report      : INFO
+Date        : Tue Nov 24 08:38:04 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : GPSNode <15693>
+Thread      : ddsi2 7fab78fbd700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1448372284.883171346
+========================================================================================
+Report      : INFO
+Date        : Tue Nov 24 08:38:04 EST 2015
+Description : The durability service can by identified by ID: 1604985950
+Node        : user-Latitude-E6430
+Process     : GPSNode <15693>
+Thread      : durability 7fab7936e700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1448372284.982132239
+========================================================================================
+Report      : INFO
+Date        : Tue Nov 24 08:38:11 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : GPSNode <15693>
+Thread      : durability 7fab7936e700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1448372291.986898351
+========================================================================================
+Report      : INFO
+Date        : Tue Nov 24 08:38:44 EST 2015
+Description : Termination request (signal 2) received from PID 15693 (self), UID 1000
+Node        : user-Latitude-E6430
+Process     : GPSNode <15693>
+Thread      : signalHandler 7fab7a29f700
+Internals   : V6.4.3p1/e718b45/62ef77c/signalHandlerThread/os_signalHandler.c/526/0/1448372324.757608487
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:45:53 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2626>
+Thread      : 7fad875e2740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448372753.054431335
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:45:53 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2626>
+Thread      : 7fad875e2740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448372753.054552346
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:45:53 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2626>
+Thread      : 7fad875e2740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448372753.054587018
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:45:53 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2626>
+Thread      : 7fad875e2740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448372753.054617725
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:45:53 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2626>
+Thread      : 7fad875e2740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448372753.054644447
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:45:53 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2626>
+Thread      : 7fad875e2740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448372753.054662660
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:45:53 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2626>
+Thread      : 7fad875e2740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448372753.054679601
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:45:53 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2626>
+Thread      : 7fad875e2740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448372753.054696419
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:45:53 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2626>
+Thread      : 7fad875e2740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448372753.054713310
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:45:53 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2626>
+Thread      : 7fad875e2740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448372753.054729854
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:45:53 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2626>
+Thread      : 7fad875e2740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448372753.054754721
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:45:53 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2626>
+Thread      : 7fad875e2740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448372753.054772338
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:45:53 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2626>
+Thread      : 7fad875e2740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448372753.054789246
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:45:53 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2626>
+Thread      : 7fad875e2740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448372753.054805870
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:45:53 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2626>
+Thread      : 7fad875e2740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448372753.054822544
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:45:53 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2626>
+Thread      : 7fad875e2740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448372753.054839137
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:45:53 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2626>
+Thread      : 7fad875e2740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448372753.054855858
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:45:53 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2626>
+Thread      : 7fad875e2740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448372753.054872388
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:45:53 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2626>
+Thread      : 7fad875e2740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448372753.054888985
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:53:02 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2779>
+Thread      : 7fd157e47740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373182.785154972
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:53:02 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2779>
+Thread      : 7fd157e47740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373182.785206421
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:53:02 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2779>
+Thread      : 7fd157e47740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373182.785222825
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:53:02 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2779>
+Thread      : 7fd157e47740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373182.785236647
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:53:02 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2779>
+Thread      : 7fd157e47740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373182.785250975
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:53:02 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2779>
+Thread      : 7fd157e47740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373182.785263613
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:53:02 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2779>
+Thread      : 7fd157e47740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373182.785276244
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:53:02 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2779>
+Thread      : 7fd157e47740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373182.785290445
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:53:02 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2779>
+Thread      : 7fd157e47740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373182.785304980
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:53:02 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2779>
+Thread      : 7fd157e47740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373182.785323902
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:53:02 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2779>
+Thread      : 7fd157e47740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373182.785332476
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:53:02 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2779>
+Thread      : 7fd157e47740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373182.785340240
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:53:02 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2779>
+Thread      : 7fd157e47740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373182.785348166
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:53:02 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2779>
+Thread      : 7fd157e47740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373182.785356065
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:53:02 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2779>
+Thread      : 7fd157e47740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373182.785363793
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:53:02 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2779>
+Thread      : 7fd157e47740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373182.785371427
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:53:02 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2779>
+Thread      : 7fd157e47740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373182.785379060
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:53:02 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2779>
+Thread      : 7fd157e47740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373182.785386721
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:53:02 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2779>
+Thread      : 7fd157e47740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373182.785397810
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:53:05 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2781>
+Thread      : 7f6e9f5c6740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373185.929841706
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:53:05 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2781>
+Thread      : 7f6e9f5c6740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373185.929937142
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:53:05 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2781>
+Thread      : 7f6e9f5c6740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373185.929972399
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:53:05 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2781>
+Thread      : 7f6e9f5c6740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373185.930002480
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:53:05 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2781>
+Thread      : 7f6e9f5c6740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373185.930031012
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:53:05 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2781>
+Thread      : 7f6e9f5c6740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373185.930049605
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:53:05 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2781>
+Thread      : 7f6e9f5c6740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373185.930066199
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:53:05 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2781>
+Thread      : 7f6e9f5c6740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373185.930082746
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:53:05 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2781>
+Thread      : 7f6e9f5c6740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373185.930112981
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:53:05 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2781>
+Thread      : 7f6e9f5c6740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373185.930130290
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:53:05 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2781>
+Thread      : 7f6e9f5c6740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373185.930146690
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:53:05 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2781>
+Thread      : 7f6e9f5c6740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373185.930163063
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:53:05 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2781>
+Thread      : 7f6e9f5c6740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373185.930179332
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:53:05 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2781>
+Thread      : 7f6e9f5c6740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373185.930195705
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:53:05 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2781>
+Thread      : 7f6e9f5c6740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373185.930211964
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:53:05 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2781>
+Thread      : 7f6e9f5c6740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373185.930228424
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:53:05 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2781>
+Thread      : 7f6e9f5c6740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373185.930244693
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:53:05 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2781>
+Thread      : 7f6e9f5c6740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373185.930267179
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:53:05 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2781>
+Thread      : 7f6e9f5c6740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373185.930284188
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:58:57 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2891>
+Thread      : 7fbd37254740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373537.338635479
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:58:57 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2891>
+Thread      : 7fbd37254740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373537.338734158
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:58:57 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2891>
+Thread      : 7fbd37254740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373537.338770152
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:58:57 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2891>
+Thread      : 7fbd37254740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373537.338801269
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:58:57 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2891>
+Thread      : 7fbd37254740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373537.338832701
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:58:57 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2891>
+Thread      : 7fbd37254740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373537.338858477
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:58:57 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2891>
+Thread      : 7fbd37254740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373537.338876766
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:58:57 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2891>
+Thread      : 7fbd37254740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373537.338911803
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:58:57 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2891>
+Thread      : 7fbd37254740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373537.338929821
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:58:57 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2891>
+Thread      : 7fbd37254740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373537.338946291
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:58:57 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2891>
+Thread      : 7fbd37254740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373537.338962531
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:58:57 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2891>
+Thread      : 7fbd37254740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373537.338978606
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:58:57 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2891>
+Thread      : 7fbd37254740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373537.338994628
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:58:57 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2891>
+Thread      : 7fbd37254740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373537.339010576
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:58:57 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2891>
+Thread      : 7fbd37254740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373537.339026521
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:58:57 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2891>
+Thread      : 7fbd37254740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373537.339042733
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:58:57 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2891>
+Thread      : 7fbd37254740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373537.339059120
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:58:57 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2891>
+Thread      : 7fbd37254740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373537.339082402
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 08:58:57 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <2891>
+Thread      : 7fbd37254740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448373537.339099367
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 09:41:28 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <3516>
+Thread      : 7fb37eb7d740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448376088.353409060
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 09:41:28 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <3516>
+Thread      : 7fb37eb7d740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448376088.353512401
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 09:41:28 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <3516>
+Thread      : 7fb37eb7d740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448376088.353547086
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 09:41:28 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <3516>
+Thread      : 7fb37eb7d740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448376088.353579063
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 09:41:28 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <3516>
+Thread      : 7fb37eb7d740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448376088.353607308
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 09:41:28 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <3516>
+Thread      : 7fb37eb7d740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448376088.353626714
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 09:41:28 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <3516>
+Thread      : 7fb37eb7d740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448376088.353644034
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 09:41:28 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <3516>
+Thread      : 7fb37eb7d740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448376088.353679481
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 09:41:28 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <3516>
+Thread      : 7fb37eb7d740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448376088.353697379
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 09:41:28 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <3516>
+Thread      : 7fb37eb7d740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448376088.353713729
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 09:41:28 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <3516>
+Thread      : 7fb37eb7d740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448376088.353729955
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 09:41:28 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <3516>
+Thread      : 7fb37eb7d740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448376088.353746080
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 09:41:28 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <3516>
+Thread      : 7fb37eb7d740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448376088.353762236
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 09:41:28 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <3516>
+Thread      : 7fb37eb7d740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448376088.353778368
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 09:41:28 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <3516>
+Thread      : 7fb37eb7d740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448376088.353794500
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 09:41:28 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <3516>
+Thread      : 7fb37eb7d740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448376088.353810676
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 09:41:28 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <3516>
+Thread      : 7fb37eb7d740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448376088.353833914
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 09:41:28 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <3516>
+Thread      : 7fb37eb7d740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448376088.353850856
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 09:41:28 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <3516>
+Thread      : 7fb37eb7d740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448376088.353867145
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:51:34 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <3050>
+Thread      : 7f55fd90a740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448380294.554713516
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:51:34 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <3050>
+Thread      : 7f55fd90a740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448380294.568546183
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:51:34 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <3050>
+Thread      : 7f55fd90a740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448380294.568592720
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:51:34 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <3050>
+Thread      : 7f55fd90a740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448380294.568647474
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:51:34 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <3050>
+Thread      : 7f55fd90a740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448380294.568669332
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:51:34 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <3050>
+Thread      : 7f55fd90a740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448380294.568687410
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:51:34 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <3050>
+Thread      : 7f55fd90a740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448380294.568721487
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:51:34 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <3050>
+Thread      : 7f55fd90a740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448380294.568739234
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:51:34 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <3050>
+Thread      : 7f55fd90a740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448380294.568755260
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:51:34 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <3050>
+Thread      : 7f55fd90a740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448380294.568771061
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:51:34 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <3050>
+Thread      : 7f55fd90a740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448380294.568786822
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:51:34 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <3050>
+Thread      : 7f55fd90a740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448380294.568802579
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:51:34 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <3050>
+Thread      : 7f55fd90a740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448380294.568818491
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:51:34 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <3050>
+Thread      : 7f55fd90a740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448380294.568834286
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:51:34 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <3050>
+Thread      : 7f55fd90a740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448380294.568849859
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:51:34 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <3050>
+Thread      : 7f55fd90a740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448380294.568877141
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:51:34 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <3050>
+Thread      : 7f55fd90a740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448380294.568893694
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:51:34 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <3050>
+Thread      : 7f55fd90a740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448380294.568909562
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:51:34 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : GPSNode <3050>
+Thread      : 7f55fd90a740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448380294.568925521
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:34:40 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : GPSNode <4402>
+Thread      : spliced 7f170b402700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1449268480.176681912
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:34:40 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : GPSNode <4402>
+Thread      : spliced 7f170b402700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1449268480.197022986
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:34:40 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : GPSNode <4402>
+Thread      : spliced 7f170b402700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1449268480.197614523
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:34:40 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : GPSNode <4402>
+Thread      : spliced 7f170b402700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1449268480.198845984
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:34:40 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : GPSNode <4402>
+Thread      : ddsi2 7f17027e8700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1449268480.240586473
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:34:40 EST 2015
+Description : The durability service can by identified by ID: 687202559
+Node        : user-Latitude-E6430
+Process     : GPSNode <4402>
+Thread      : durability 7f1702b99700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1449268480.525439412
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:34:44 EST 2015
+Description : Termination request (signal 2) received from PID 4402 (self), UID 1000
+Node        : user-Latitude-E6430
+Process     : GPSNode <4402>
+Thread      : signalHandler 7f1703aca700
+Internals   : V6.4.3p1/e718b45/62ef77c/signalHandlerThread/os_signalHandler.c/526/0/1449268484.827403188
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:35:49 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : GPSNode <4463>
+Thread      : spliced 7f67d1f88700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1449268549.011291221
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:35:49 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : GPSNode <4463>
+Thread      : spliced 7f67d1f88700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1449268549.025836501
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:35:49 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : GPSNode <4463>
+Thread      : spliced 7f67d1f88700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1449268549.026348397
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:35:49 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : GPSNode <4463>
+Thread      : spliced 7f67d1f88700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1449268549.027124107
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:35:49 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : GPSNode <4463>
+Thread      : ddsi2 7f67c936e700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1449268549.051252050
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:35:49 EST 2015
+Description : The durability service can by identified by ID: 197255201
+Node        : user-Latitude-E6430
+Process     : GPSNode <4463>
+Thread      : durability 7f67c971f700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1449268549.352685550
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:35:52 EST 2015
+Description : Termination request (signal 2) received from PID 4463 (self), UID 1000
+Node        : user-Latitude-E6430
+Process     : GPSNode <4463>
+Thread      : signalHandler 7f67ca650700
+Internals   : V6.4.3p1/e718b45/62ef77c/signalHandlerThread/os_signalHandler.c/526/0/1449268552.167260026
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:37:55 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : GPSNode <4521>
+Thread      : spliced 7f362f769700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1449268675.000613934
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:37:55 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : GPSNode <4521>
+Thread      : spliced 7f362f769700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1449268675.012736165
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:37:55 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : GPSNode <4521>
+Thread      : spliced 7f362f769700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1449268675.013254773
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:37:55 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : GPSNode <4521>
+Thread      : spliced 7f362f769700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1449268675.013922499
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:37:55 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : GPSNode <4521>
+Thread      : ddsi2 7f3626b4f700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1449268675.063497133
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:37:55 EST 2015
+Description : The durability service can by identified by ID: 1880221151
+Node        : user-Latitude-E6430
+Process     : GPSNode <4521>
+Thread      : durability 7f3626f00700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1449268675.342822206
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:37:59 EST 2015
+Description : Termination request (signal 2) received from PID 4521 (self), UID 1000
+Node        : user-Latitude-E6430
+Process     : GPSNode <4521>
+Thread      : signalHandler 7f3627e31700
+Internals   : V6.4.3p1/e718b45/62ef77c/signalHandlerThread/os_signalHandler.c/526/0/1449268679.400319098

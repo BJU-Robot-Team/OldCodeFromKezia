@@ -1,0 +1,3504 @@
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:27:34 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : CompassNode <8542>
+Thread      : spliced 7fb9480a3700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1447968454.029290038
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:27:34 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : CompassNode <8542>
+Thread      : spliced 7fb9480a3700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1447968454.038819103
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:27:34 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : CompassNode <8542>
+Thread      : spliced 7fb9480a3700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1447968454.039163853
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:27:34 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <8542>
+Thread      : spliced 7fb9480a3700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1447968454.039747363
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:27:34 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <8542>
+Thread      : ddsi2 7fb913462700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1447968454.056962453
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:27:34 EST 2015
+Description : The durability service can by identified by ID: 1339549444
+Node        : user-Latitude-E6430
+Process     : CompassNode <8542>
+Thread      : durability 7fb9137e0700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1447968454.158580610
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:27:41 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <8542>
+Thread      : durability 7fb9137e0700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1447968461.163791088
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:27:58 EST 2015
+Description : Termination request (signal 2) received from PID 8542 (self), UID 1000
+Node        : user-Latitude-E6430
+Process     : CompassNode <8542>
+Thread      : signalHandler 7fb94076b700
+Internals   : V6.4.3p1/e718b45/62ef77c/signalHandlerThread/os_signalHandler.c/526/0/1447968478.656976436
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:29:22 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : CompassNode <8622>
+Thread      : spliced 7f1036827700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1447968562.999948107
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:29:23 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : CompassNode <8622>
+Thread      : spliced 7f1036827700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1447968563.012663265
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:29:23 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : CompassNode <8622>
+Thread      : spliced 7f1036827700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1447968563.013271925
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:29:23 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <8622>
+Thread      : spliced 7f1036827700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1447968563.014197884
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:29:23 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <8622>
+Thread      : ddsi2 7f102dc0d700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1447968563.036084052
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:29:23 EST 2015
+Description : The durability service can by identified by ID: 120088597
+Node        : user-Latitude-E6430
+Process     : CompassNode <8622>
+Thread      : durability 7f102dfbe700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1447968563.137674575
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:31:39 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : CompassNode <8700>
+Thread      : spliced 7fa0f23fe700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1447968699.257354901
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:31:39 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : CompassNode <8700>
+Thread      : spliced 7fa0f23fe700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1447968699.269031375
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:31:39 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : CompassNode <8700>
+Thread      : spliced 7fa0f23fe700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1447968699.269373428
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:31:39 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <8700>
+Thread      : spliced 7fa0f23fe700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1447968699.269771435
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:31:39 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <8700>
+Thread      : ddsi2 7fa0e97e4700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1447968699.284563544
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:31:39 EST 2015
+Description : The durability service can by identified by ID: 1406590096
+Node        : user-Latitude-E6430
+Process     : CompassNode <8700>
+Thread      : durability 7fa0e9b95700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1447968699.385477394
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:31:46 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <8700>
+Thread      : durability 7fa0e9b95700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1447968706.390364585
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:31:50 EST 2015
+Description : Termination request (signal 2) received from PID 8700 (self), UID 1000
+Node        : user-Latitude-E6430
+Process     : CompassNode <8700>
+Thread      : signalHandler 7fa0eaac6700
+Internals   : V6.4.3p1/e718b45/62ef77c/signalHandlerThread/os_signalHandler.c/526/0/1447968710.707592164
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:32:17 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : CompassNode <8779>
+Thread      : spliced 7f2040c9e700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1447968737.482193805
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:32:17 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : CompassNode <8779>
+Thread      : spliced 7f2040c9e700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1447968737.491218695
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:32:17 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : CompassNode <8779>
+Thread      : spliced 7f2040c9e700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1447968737.491489079
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:32:17 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <8779>
+Thread      : spliced 7f2040c9e700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1447968737.491853309
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:32:17 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <8779>
+Thread      : ddsi2 7f1ffbfff700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1447968737.504758431
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:32:17 EST 2015
+Description : The durability service can by identified by ID: 2121497379
+Node        : user-Latitude-E6430
+Process     : CompassNode <8779>
+Thread      : durability 7f2038435700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1447968737.608115448
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:32:21 EST 2015
+Description : Termination request (signal 2) received from PID 8779 (self), UID 1000
+Node        : user-Latitude-E6430
+Process     : CompassNode <8779>
+Thread      : signalHandler 7f2039366700
+Internals   : V6.4.3p1/e718b45/62ef77c/signalHandlerThread/os_signalHandler.c/526/0/1447968741.853949853
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:32:56 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : CompassNode <8859>
+Thread      : spliced 7f78fec0b700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1447968776.482064619
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:32:56 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : CompassNode <8859>
+Thread      : spliced 7f78fec0b700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1447968776.491131160
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:32:56 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : CompassNode <8859>
+Thread      : spliced 7f78fec0b700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1447968776.491441984
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:32:56 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <8859>
+Thread      : spliced 7f78fec0b700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1447968776.492071999
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:32:56 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <8859>
+Thread      : ddsi2 7f78f5ff1700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1447968776.508757374
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:32:56 EST 2015
+Description : The durability service can by identified by ID: 401825672
+Node        : user-Latitude-E6430
+Process     : CompassNode <8859>
+Thread      : durability 7f78f63a2700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1447968776.609635577
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:33:03 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <8859>
+Thread      : durability 7f78f63a2700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1447968783.614793756
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:33:04 EST 2015
+Description : Termination request (signal 2) received from PID 8859 (self), UID 1000
+Node        : user-Latitude-E6430
+Process     : CompassNode <8859>
+Thread      : signalHandler 7f78f72d3700
+Internals   : V6.4.3p1/e718b45/62ef77c/signalHandlerThread/os_signalHandler.c/526/0/1447968784.457444135
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:35:10 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : CompassNode <8911>
+Thread      : spliced 7f797f084700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1447968910.437501142
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:35:10 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : CompassNode <8911>
+Thread      : spliced 7f797f084700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1447968910.450812430
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:35:10 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : CompassNode <8911>
+Thread      : spliced 7f797f084700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1447968910.451582558
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:35:10 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <8911>
+Thread      : spliced 7f797f084700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1447968910.453034974
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:35:10 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <8911>
+Thread      : ddsi2 7f797646a700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1447968910.472220036
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:35:10 EST 2015
+Description : The durability service can by identified by ID: 190311939
+Node        : user-Latitude-E6430
+Process     : CompassNode <8911>
+Thread      : durability 7f797681b700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1447968910.574192782
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:35:17 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <8911>
+Thread      : durability 7f797681b700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1447968917.579397093
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:36:05 EST 2015
+Description : Termination request (signal 2) received from PID 8911 (self), UID 1000
+Node        : user-Latitude-E6430
+Process     : CompassNode <8911>
+Thread      : signalHandler 7f797774c700
+Internals   : V6.4.3p1/e718b45/62ef77c/signalHandlerThread/os_signalHandler.c/526/0/1447968965.967098851
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:38:45 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : CompassNode <8969>
+Thread      : spliced 7f0280c43700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1447969125.283572890
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:38:45 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : CompassNode <8969>
+Thread      : spliced 7f0280c43700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1447969125.294417413
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:38:45 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : CompassNode <8969>
+Thread      : spliced 7f0280c43700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1447969125.294708233
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:38:45 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <8969>
+Thread      : spliced 7f0280c43700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1447969125.295163965
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:38:45 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <8969>
+Thread      : ddsi2 7f024bfff700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1447969125.313047350
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:38:45 EST 2015
+Description : The durability service can by identified by ID: 129568742
+Node        : user-Latitude-E6430
+Process     : CompassNode <8969>
+Thread      : durability 7f02783da700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1447969125.413295133
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:38:48 EST 2015
+Description : Termination request (signal 2) received from PID 8969 (self), UID 1000
+Node        : user-Latitude-E6430
+Process     : CompassNode <8969>
+Thread      : signalHandler 7f027930b700
+Internals   : V6.4.3p1/e718b45/62ef77c/signalHandlerThread/os_signalHandler.c/526/0/1447969128.752164211
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:39:10 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : CompassNode <9048>
+Thread      : spliced 7f891efd6700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1447969150.365576247
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:39:10 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : CompassNode <9048>
+Thread      : spliced 7f891efd6700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1447969150.377841607
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:39:10 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : CompassNode <9048>
+Thread      : spliced 7f891efd6700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1447969150.378406822
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:39:10 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <9048>
+Thread      : spliced 7f891efd6700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1447969150.379279115
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:39:10 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <9048>
+Thread      : ddsi2 7f89163bc700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1447969150.407064030
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:39:10 EST 2015
+Description : The durability service can by identified by ID: 1462952668
+Node        : user-Latitude-E6430
+Process     : CompassNode <9048>
+Thread      : durability 7f891676d700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1447969150.505739056
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:39:15 EST 2015
+Description : Termination request (signal 2) received from PID 9048 (self), UID 1000
+Node        : user-Latitude-E6430
+Process     : CompassNode <9048>
+Thread      : signalHandler 7f891769e700
+Internals   : V6.4.3p1/e718b45/62ef77c/signalHandlerThread/os_signalHandler.c/526/0/1447969155.447995402
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:39:22 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : CompassNode <9103>
+Thread      : spliced 7f475ff8c700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1447969162.325312527
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:39:22 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : CompassNode <9103>
+Thread      : spliced 7f475ff8c700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1447969162.337071148
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:39:22 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : CompassNode <9103>
+Thread      : spliced 7f475ff8c700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1447969162.337492667
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:39:22 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <9103>
+Thread      : spliced 7f475ff8c700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1447969162.338218667
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:39:22 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <9103>
+Thread      : ddsi2 7f473b360700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1447969162.357350092
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:39:22 EST 2015
+Description : The durability service can by identified by ID: 266779889
+Node        : user-Latitude-E6430
+Process     : CompassNode <9103>
+Thread      : durability 7f473b6de700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1447969162.664094659
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:39:27 EST 2015
+Description : Termination request (signal 2) received from PID 9103 (self), UID 1000
+Node        : user-Latitude-E6430
+Process     : CompassNode <9103>
+Thread      : signalHandler 7f4758654700
+Internals   : V6.4.3p1/e718b45/62ef77c/signalHandlerThread/os_signalHandler.c/526/0/1447969167.212469888
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:49:16 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : CompassNode <9457>
+Thread      : spliced 7fd5a3902700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1447969756.594011410
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:49:16 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : CompassNode <9457>
+Thread      : spliced 7fd5a3902700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1447969756.599952769
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:49:16 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : CompassNode <9457>
+Thread      : spliced 7fd5a3902700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1447969756.600279902
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:49:16 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <9457>
+Thread      : spliced 7fd5a3902700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1447969756.600870546
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:49:16 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <9457>
+Thread      : ddsi2 7fd59ace8700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1447969756.628534330
+========================================================================================
+Report      : INFO
+Date        : Thu Nov 19 16:49:16 EST 2015
+Description : The durability service can by identified by ID: 1399854786
+Node        : user-Latitude-E6430
+Process     : CompassNode <9457>
+Thread      : durability 7fd59b099700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1447969756.923947498
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:41:51 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : CompassNode <3022>
+Thread      : spliced 7f4f07ac7700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1448044911.861172558
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:41:51 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : CompassNode <3022>
+Thread      : spliced 7f4f07ac7700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1448044911.880196580
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:41:51 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : CompassNode <3022>
+Thread      : spliced 7f4f07ac7700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1448044911.880453363
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:41:51 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <3022>
+Thread      : spliced 7f4f07ac7700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1448044911.880868377
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:41:51 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <3022>
+Thread      : ddsi2 7f4efeead700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1448044911.917403561
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:41:51 EST 2015
+Description : The durability service can by identified by ID: 990378481
+Node        : user-Latitude-E6430
+Process     : CompassNode <3022>
+Thread      : durability 7f4eff25e700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1448044911.999579612
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:43:20 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : CompassNode <3356>
+Thread      : spliced 7f97e100b700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1448045000.338221130
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:43:20 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : CompassNode <3356>
+Thread      : spliced 7f97e100b700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1448045000.344515599
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:43:20 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : CompassNode <3356>
+Thread      : spliced 7f97e100b700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1448045000.344823264
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:43:20 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <3356>
+Thread      : spliced 7f97e100b700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1448045000.345323295
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:43:20 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <3356>
+Thread      : ddsi2 7f97d83f1700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1448045000.373221065
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:43:20 EST 2015
+Description : The durability service can by identified by ID: 296007484
+Node        : user-Latitude-E6430
+Process     : CompassNode <3356>
+Thread      : durability 7f97d87a2700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1448045000.761735351
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:44:26 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : CompassNode <3559>
+Thread      : spliced 7faae7f77700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1448045066.212975076
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:44:26 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : CompassNode <3559>
+Thread      : spliced 7faae7f77700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1448045066.226138268
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:44:26 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : CompassNode <3559>
+Thread      : spliced 7faae7f77700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1448045066.226725478
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:44:26 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <3559>
+Thread      : spliced 7faae7f77700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1448045066.227471124
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:44:26 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <3559>
+Thread      : ddsi2 7faac334f700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1448045066.259557062
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:44:26 EST 2015
+Description : The durability service can by identified by ID: 1780048267
+Node        : user-Latitude-E6430
+Process     : CompassNode <3559>
+Thread      : durability 7faac36de700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1448045066.355281174
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:44:34 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : CompassNode <3611>
+Thread      : spliced 7fd39648e700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1448045074.037473661
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:44:34 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : CompassNode <3611>
+Thread      : spliced 7fd39648e700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1448045074.046479696
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:44:34 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : CompassNode <3611>
+Thread      : spliced 7fd39648e700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1448045074.046825677
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:44:34 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <3611>
+Thread      : spliced 7fd39648e700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1448045074.047257143
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:44:34 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <3611>
+Thread      : ddsi2 7fd38d874700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1448045074.069850955
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:44:34 EST 2015
+Description : The durability service can by identified by ID: 1274079317
+Node        : user-Latitude-E6430
+Process     : CompassNode <3611>
+Thread      : durability 7fd38dc25700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1448045074.374092101
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:47:29 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : CompassNode <3719>
+Thread      : spliced 7fa9fc3db700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1448045249.433572131
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:47:29 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : CompassNode <3719>
+Thread      : spliced 7fa9fc3db700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1448045249.445922647
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:47:29 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : CompassNode <3719>
+Thread      : spliced 7fa9fc3db700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1448045249.446446906
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:47:29 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <3719>
+Thread      : spliced 7fa9fc3db700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1448045249.447779589
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:47:29 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <3719>
+Thread      : ddsi2 7fa9cb777700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1448045249.463354519
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:47:29 EST 2015
+Description : The durability service can by identified by ID: 1618599326
+Node        : user-Latitude-E6430
+Process     : CompassNode <3719>
+Thread      : durability 7fa9cbaf5700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1448045249.566786035
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:47:41 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : CompassNode <3770>
+Thread      : spliced 7f13db37e700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1448045261.690007290
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:47:41 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : CompassNode <3770>
+Thread      : spliced 7f13db37e700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1448045261.701437015
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:47:41 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : CompassNode <3770>
+Thread      : spliced 7f13db37e700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1448045261.701703190
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:47:41 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <3770>
+Thread      : spliced 7f13db37e700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1448045261.702101596
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:47:41 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <3770>
+Thread      : ddsi2 7f13d2764700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1448045261.715219243
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:47:41 EST 2015
+Description : The durability service can by identified by ID: 1939008037
+Node        : user-Latitude-E6430
+Process     : CompassNode <3770>
+Thread      : durability 7f13d2b15700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1448045261.816754546
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:47:52 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : CompassNode <3820>
+Thread      : spliced 7f3a36faf700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1448045272.220507133
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:47:52 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : CompassNode <3820>
+Thread      : spliced 7f3a36faf700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1448045272.228148851
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:47:52 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : CompassNode <3820>
+Thread      : spliced 7f3a36faf700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1448045272.228478669
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:47:52 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <3820>
+Thread      : spliced 7f3a36faf700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1448045272.229189814
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:47:52 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <3820>
+Thread      : ddsi2 7f3a2e395700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1448045272.249455118
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:47:52 EST 2015
+Description : The durability service can by identified by ID: 1897311390
+Node        : user-Latitude-E6430
+Process     : CompassNode <3820>
+Thread      : durability 7f3a2e746700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1448045272.346959108
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:47:59 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <3820>
+Thread      : durability 7f3a2e746700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1448045279.351995799
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:48:06 EST 2015
+Description : Termination request (signal 2) received from PID 3820 (self), UID 1000
+Node        : user-Latitude-E6430
+Process     : CompassNode <3820>
+Thread      : signalHandler 7f3a2f677700
+Internals   : V6.4.3p1/e718b45/62ef77c/signalHandlerThread/os_signalHandler.c/526/0/1448045286.032023517
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:48:07 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : CompassNode <3873>
+Thread      : spliced 7ff63988c700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1448045287.944463159
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:48:07 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : CompassNode <3873>
+Thread      : spliced 7ff63988c700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1448045287.956538538
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:48:07 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : CompassNode <3873>
+Thread      : spliced 7ff63988c700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1448045287.956951818
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:48:07 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <3873>
+Thread      : spliced 7ff63988c700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1448045287.957941839
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:48:07 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <3873>
+Thread      : ddsi2 7ff630e81700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1448045287.980449946
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:48:08 EST 2015
+Description : The durability service can by identified by ID: 414708544
+Node        : user-Latitude-E6430
+Process     : CompassNode <3873>
+Thread      : durability 7ff631232700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1448045288.077652436
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:48:11 EST 2015
+Description : Termination request (signal 2) received from PID 3873 (self), UID 1000
+Node        : user-Latitude-E6430
+Process     : CompassNode <3873>
+Thread      : signalHandler 7ff631f54700
+Internals   : V6.4.3p1/e718b45/62ef77c/signalHandlerThread/os_signalHandler.c/526/0/1448045291.366839892
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:48:20 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : CompassNode <4072>
+Thread      : spliced 7f3cea428700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1448045300.849477118
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:48:20 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : CompassNode <4072>
+Thread      : spliced 7f3cea428700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1448045300.855961103
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:48:20 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : CompassNode <4072>
+Thread      : spliced 7f3cea428700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1448045300.856198150
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:48:20 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <4072>
+Thread      : spliced 7f3cea428700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1448045300.856604831
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:48:20 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <4072>
+Thread      : ddsi2 7f3ce180e700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1448045300.874935883
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:48:21 EST 2015
+Description : The durability service can by identified by ID: 1953856864
+Node        : user-Latitude-E6430
+Process     : CompassNode <4072>
+Thread      : durability 7f3ce1bbf700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1448045301.177835675
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:48:35 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : CompassNode <4128>
+Thread      : spliced 7f3f61ecb700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1448045315.512666598
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:48:35 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : CompassNode <4128>
+Thread      : spliced 7f3f61ecb700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1448045315.526211615
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:48:35 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : CompassNode <4128>
+Thread      : spliced 7f3f61ecb700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1448045315.526845894
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:48:35 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <4128>
+Thread      : spliced 7f3f61ecb700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1448045315.527894664
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:48:35 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <4128>
+Thread      : ddsi2 7f3f594c0700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1448045315.550995861
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:48:35 EST 2015
+Description : The durability service can by identified by ID: 953609822
+Node        : user-Latitude-E6430
+Process     : CompassNode <4128>
+Thread      : durability 7f3f59871700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1448045315.652700950
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:48:44 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : CompassNode <4179>
+Thread      : spliced 7f1816534700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1448045324.435099057
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:48:44 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : CompassNode <4179>
+Thread      : spliced 7f1816534700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1448045324.447368153
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:48:44 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : CompassNode <4179>
+Thread      : spliced 7f1816534700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1448045324.448069106
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:48:44 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <4179>
+Thread      : spliced 7f1816534700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1448045324.448596275
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:48:44 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <4179>
+Thread      : ddsi2 7f180db29700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1448045324.463305866
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:48:44 EST 2015
+Description : The durability service can by identified by ID: 1777604201
+Node        : user-Latitude-E6430
+Process     : CompassNode <4179>
+Thread      : durability 7f180deda700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1448045324.564427783
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:49:14 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : CompassNode <4249>
+Thread      : spliced 7fcd2735f700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1448045354.953437626
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:49:14 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : CompassNode <4249>
+Thread      : spliced 7fcd2735f700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1448045354.965953185
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:49:14 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : CompassNode <4249>
+Thread      : spliced 7fcd2735f700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1448045354.966537667
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:49:14 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <4249>
+Thread      : spliced 7fcd2735f700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1448045354.967865650
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:49:14 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <4249>
+Thread      : ddsi2 7fcd1e745700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1448045354.994713601
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:49:15 EST 2015
+Description : The durability service can by identified by ID: 641196328
+Node        : user-Latitude-E6430
+Process     : CompassNode <4249>
+Thread      : durability 7fcd1eaf6700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1448045355.192505067
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:49:20 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : CompassNode <4300>
+Thread      : spliced 7f968dfab700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1448045360.131056016
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:49:20 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : CompassNode <4300>
+Thread      : spliced 7f968dfab700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1448045360.139443825
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:49:20 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : CompassNode <4300>
+Thread      : spliced 7f968dfab700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1448045360.139770733
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:49:20 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <4300>
+Thread      : spliced 7f968dfab700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1448045360.140406265
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:49:20 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <4300>
+Thread      : ddsi2 7f9685391700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1448045360.155359779
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:49:20 EST 2015
+Description : The durability service can by identified by ID: 173154680
+Node        : user-Latitude-E6430
+Process     : CompassNode <4300>
+Thread      : durability 7f9685742700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1448045360.257982255
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:49:27 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <4300>
+Thread      : durability 7f9685742700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1448045367.263196458
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:49:35 EST 2015
+Description : Termination request (signal 2) received from PID 4300 (self), UID 1000
+Node        : user-Latitude-E6430
+Process     : CompassNode <4300>
+Thread      : signalHandler 7f9686673700
+Internals   : V6.4.3p1/e718b45/62ef77c/signalHandlerThread/os_signalHandler.c/526/0/1448045375.099217604
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:50:22 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : CompassNode <4505>
+Thread      : spliced 7f46cf302700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1448045422.052737479
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:50:22 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : CompassNode <4505>
+Thread      : spliced 7f46cf302700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1448045422.060663331
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:50:22 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : CompassNode <4505>
+Thread      : spliced 7f46cf302700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1448045422.060907653
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:50:22 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <4505>
+Thread      : spliced 7f46cf302700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1448045422.061459607
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:50:22 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <4505>
+Thread      : ddsi2 7f46c66e8700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1448045422.081752843
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:50:22 EST 2015
+Description : The durability service can by identified by ID: 486193198
+Node        : user-Latitude-E6430
+Process     : CompassNode <4505>
+Thread      : durability 7f46c6a99700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1448045422.278856806
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:51:27 EST 2015
+Description : Not installing a signal handler for the already ignored signal 13.
+Node        : user-Latitude-E6430
+Process     : polysync-viewer <4566>
+Thread      : main thread 7ff519e707c0
+Internals   : V6.4.3p1/e718b45/62ef77c/os_signalHandlerThread/os_signalHandler.c/816/0/1448045487.756886757
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:51:27 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : polysync-viewer <4566>
+Thread      : spliced 7ff519d02700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1448045487.758793570
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:51:27 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : polysync-viewer <4566>
+Thread      : spliced 7ff519d02700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1448045487.770008420
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:51:27 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : polysync-viewer <4566>
+Thread      : spliced 7ff519d02700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1448045487.770367233
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:51:27 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : polysync-viewer <4566>
+Thread      : spliced 7ff519d02700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1448045487.770947163
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:51:27 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : polysync-viewer <4566>
+Thread      : ddsi2 7ff4e9fa9700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1448045487.807065928
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:51:27 EST 2015
+Description : The durability service can by identified by ID: 1995955494
+Node        : user-Latitude-E6430
+Process     : polysync-viewer <4566>
+Thread      : durability 7ff4ea327700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1448045487.998363909
+========================================================================================
+Report      : INFO
+Date        : Fri Nov 20 13:51:35 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : polysync-viewer <4566>
+Thread      : durability 7ff4ea327700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1448045495.502885349
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:03:12 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2485>
+Thread      : 7fa33ec3c740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448377392.203305797
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:03:12 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2485>
+Thread      : 7fa33ec3c740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448377392.218517730
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:03:12 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2485>
+Thread      : 7fa33ec3c740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448377392.218550436
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:03:12 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2485>
+Thread      : 7fa33ec3c740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448377392.218570458
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:03:12 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2485>
+Thread      : 7fa33ec3c740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448377392.218588637
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:03:12 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2485>
+Thread      : 7fa33ec3c740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448377392.218606301
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:03:12 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2485>
+Thread      : 7fa33ec3c740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448377392.218636518
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:03:12 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2485>
+Thread      : 7fa33ec3c740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448377392.218654095
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:03:12 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2485>
+Thread      : 7fa33ec3c740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448377392.218670752
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:03:12 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2485>
+Thread      : 7fa33ec3c740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448377392.218687219
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:03:12 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2485>
+Thread      : 7fa33ec3c740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448377392.218703626
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:03:12 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2485>
+Thread      : 7fa33ec3c740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448377392.218719828
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:03:12 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2485>
+Thread      : 7fa33ec3c740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448377392.218735967
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:03:12 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2485>
+Thread      : 7fa33ec3c740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448377392.218752269
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:03:12 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2485>
+Thread      : 7fa33ec3c740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448377392.218768666
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:03:12 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2485>
+Thread      : 7fa33ec3c740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448377392.218792118
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:03:12 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2485>
+Thread      : 7fa33ec3c740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448377392.218809428
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:03:12 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2485>
+Thread      : 7fa33ec3c740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448377392.218826155
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:03:12 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2485>
+Thread      : 7fa33ec3c740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448377392.218842622
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:08:24 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2573>
+Thread      : 7f716dc37740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448377704.463064599
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:08:24 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2573>
+Thread      : 7f716dc37740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448377704.463152848
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:08:24 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2573>
+Thread      : 7f716dc37740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448377704.463175137
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:08:24 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2573>
+Thread      : 7f716dc37740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448377704.463192466
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:08:24 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2573>
+Thread      : 7f716dc37740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448377704.463209441
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:08:24 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2573>
+Thread      : 7f716dc37740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448377704.463243298
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:08:24 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2573>
+Thread      : 7f716dc37740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448377704.463260343
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:08:24 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2573>
+Thread      : 7f716dc37740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448377704.463275783
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:08:24 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2573>
+Thread      : 7f716dc37740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448377704.463291280
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:08:24 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2573>
+Thread      : 7f716dc37740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448377704.463306690
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:08:24 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2573>
+Thread      : 7f716dc37740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448377704.463321969
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:08:24 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2573>
+Thread      : 7f716dc37740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448377704.463337114
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:08:24 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2573>
+Thread      : 7f716dc37740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448377704.463352153
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:08:24 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2573>
+Thread      : 7f716dc37740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448377704.463367172
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:08:24 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2573>
+Thread      : 7f716dc37740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448377704.463389407
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:08:24 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2573>
+Thread      : 7f716dc37740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448377704.463405710
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:08:24 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2573>
+Thread      : 7f716dc37740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448377704.463421080
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:08:24 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2573>
+Thread      : 7f716dc37740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448377704.463436255
+========================================================================================
+Report      : WARNING
+Date        : Tue Nov 24 10:08:24 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2573>
+Thread      : 7f716dc37740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1448377704.463451173
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:39:14 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : CompassNode <4690>
+Thread      : spliced 7f213afa6700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1449268754.598629524
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:39:14 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : CompassNode <4690>
+Thread      : spliced 7f213afa6700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1449268754.618784730
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:39:14 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : CompassNode <4690>
+Thread      : spliced 7f213afa6700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1449268754.619074477
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:39:14 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <4690>
+Thread      : spliced 7f213afa6700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1449268754.619701931
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:39:14 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <4690>
+Thread      : ddsi2 7f213238c700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1449268754.664645948
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:39:15 EST 2015
+Description : The durability service can by identified by ID: 174879463
+Node        : user-Latitude-E6430
+Process     : CompassNode <4690>
+Thread      : durability 7f213273d700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1449268755.038622381
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:44:11 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : CompassNode <4851>
+Thread      : spliced 7fdf4b1b1700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1449269051.884986079
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:44:11 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : CompassNode <4851>
+Thread      : spliced 7fdf4b1b1700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1449269051.899777214
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:44:11 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : CompassNode <4851>
+Thread      : spliced 7fdf4b1b1700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1449269051.900315102
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:44:11 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <4851>
+Thread      : spliced 7fdf4b1b1700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1449269051.901272653
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:44:11 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <4851>
+Thread      : ddsi2 7fdf42597700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1449269051.929923165
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:44:12 EST 2015
+Description : The durability service can by identified by ID: 1957519266
+Node        : user-Latitude-E6430
+Process     : CompassNode <4851>
+Thread      : durability 7fdf42948700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1449269052.123584335
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:44:20 EST 2015
+Description : Not installing a signal handler for the already ignored signal 13.
+Node        : user-Latitude-E6430
+Process     : CompassNode <4910>
+Thread      : main thread 7ffff7fc9740
+Internals   : V6.4.3p1/e718b45/62ef77c/os_signalHandlerThread/os_signalHandler.c/816/0/1449269060.104526672
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:44:20 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : CompassNode <4910>
+Thread      : spliced 7ffff7ff5700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1449269060.118726920
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:44:20 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : CompassNode <4910>
+Thread      : spliced 7ffff7ff5700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1449269060.128908364
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:44:20 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : CompassNode <4910>
+Thread      : spliced 7ffff7ff5700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1449269060.130733642
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:44:20 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <4910>
+Thread      : spliced 7ffff7ff5700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1449269060.137666056
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:44:20 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <4910>
+Thread      : ddsi2 7fffcb3e1700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1449269060.233194615
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:44:20 EST 2015
+Description : The durability service can by identified by ID: 1844097695
+Node        : user-Latitude-E6430
+Process     : CompassNode <4910>
+Thread      : durability 7fffcb75f700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1449269060.538630041
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:46:51 EST 2015
+Description : Not installing a signal handler for the already ignored signal 13.
+Node        : user-Latitude-E6430
+Process     : CompassNode <4967>
+Thread      : main thread 7ffff7fc9740
+Internals   : V6.4.3p1/e718b45/62ef77c/os_signalHandlerThread/os_signalHandler.c/816/0/1449269211.367187849
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:46:51 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : CompassNode <4967>
+Thread      : spliced 7ffff7ff5700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1449269211.375581290
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:46:51 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : CompassNode <4967>
+Thread      : spliced 7ffff7ff5700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1449269211.388348565
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:46:51 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : CompassNode <4967>
+Thread      : spliced 7ffff7ff5700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1449269211.391889424
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:46:51 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <4967>
+Thread      : spliced 7ffff7ff5700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1449269211.399617218
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:46:51 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <4967>
+Thread      : ddsi2 7fffcb3e1700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1449269211.497761352
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:46:51 EST 2015
+Description : The durability service can by identified by ID: 1926502139
+Node        : user-Latitude-E6430
+Process     : CompassNode <4967>
+Thread      : durability 7fffcb75f700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1449269211.603791653
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:47:03 EST 2015
+Description : Not installing a signal handler for the already ignored signal 13.
+Node        : user-Latitude-E6430
+Process     : CompassNode <5074>
+Thread      : main thread 7ffff7fc9740
+Internals   : V6.4.3p1/e718b45/62ef77c/os_signalHandlerThread/os_signalHandler.c/816/0/1449269223.077481119
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:47:03 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : CompassNode <5074>
+Thread      : spliced 7ffff7ff5700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1449269223.085212254
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:47:03 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : CompassNode <5074>
+Thread      : spliced 7ffff7ff5700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1449269223.097015868
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:47:03 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : CompassNode <5074>
+Thread      : spliced 7ffff7ff5700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1449269223.099412585
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:47:03 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <5074>
+Thread      : spliced 7ffff7ff5700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1449269223.104577862
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:47:03 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <5074>
+Thread      : ddsi2 7fffcb3e1700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1449269223.184445013
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:47:03 EST 2015
+Description : The durability service can by identified by ID: 1096570814
+Node        : user-Latitude-E6430
+Process     : CompassNode <5074>
+Thread      : durability 7fffcb75f700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1449269223.507926524
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:47:16 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : CompassNode <5130>
+Thread      : spliced 7f81334bf700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1449269236.734157659
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:47:16 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : CompassNode <5130>
+Thread      : spliced 7f81334bf700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1449269236.743352512
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:47:16 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : CompassNode <5130>
+Thread      : spliced 7f81334bf700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1449269236.743631441
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:47:16 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <5130>
+Thread      : spliced 7f81334bf700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1449269236.743988356
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:47:16 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <5130>
+Thread      : ddsi2 7f812a8a5700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1449269236.765085849
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:47:16 EST 2015
+Description : The durability service can by identified by ID: 961190053
+Node        : user-Latitude-E6430
+Process     : CompassNode <5130>
+Thread      : durability 7f812ac56700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1449269236.864206662
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:47:24 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : CompassNode <5226>
+Thread      : spliced 7f5bdf118700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1449269244.097509648
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:47:24 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : CompassNode <5226>
+Thread      : spliced 7f5bdf118700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1449269244.110032649
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:47:24 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : CompassNode <5226>
+Thread      : spliced 7f5bdf118700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1449269244.110384738
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:47:24 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <5226>
+Thread      : spliced 7f5bdf118700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1449269244.111236493
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:47:24 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <5226>
+Thread      : ddsi2 7f5bd64fe700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1449269244.128175943
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:47:24 EST 2015
+Description : The durability service can by identified by ID: 1766582362
+Node        : user-Latitude-E6430
+Process     : CompassNode <5226>
+Thread      : durability 7f5bd68af700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1449269244.333360101
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:47:42 EST 2015
+Description : Not installing a signal handler for the already ignored signal 13.
+Node        : user-Latitude-E6430
+Process     : CompassNode <5341>
+Thread      : main thread 7ffff7fc9740
+Internals   : V6.4.3p1/e718b45/62ef77c/os_signalHandlerThread/os_signalHandler.c/816/0/1449269262.505077423
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:47:42 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : CompassNode <5341>
+Thread      : spliced 7ffff7ff5700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1449269262.513219632
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:47:42 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : CompassNode <5341>
+Thread      : spliced 7ffff7ff5700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1449269262.525357082
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:47:42 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : CompassNode <5341>
+Thread      : spliced 7ffff7ff5700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1449269262.528793309
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:47:42 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <5341>
+Thread      : spliced 7ffff7ff5700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1449269262.535831990
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:47:42 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <5341>
+Thread      : ddsi2 7fffcb3e1700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1449269262.623225929
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:47:42 EST 2015
+Description : The durability service can by identified by ID: 1561294553
+Node        : user-Latitude-E6430
+Process     : CompassNode <5341>
+Thread      : durability 7fffcb75f700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1449269262.951353533
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:48:15 EST 2015
+Description : Not installing a signal handler for the already ignored signal 13.
+Node        : user-Latitude-E6430
+Process     : CompassNode <5434>
+Thread      : main thread 7ffff7fc9740
+Internals   : V6.4.3p1/e718b45/62ef77c/os_signalHandlerThread/os_signalHandler.c/816/0/1449269295.239024271
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:48:15 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : CompassNode <5434>
+Thread      : spliced 7ffff7ff5700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1449269295.250358600
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:48:15 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : CompassNode <5434>
+Thread      : spliced 7ffff7ff5700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1449269295.261260085
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:48:15 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : CompassNode <5434>
+Thread      : spliced 7ffff7ff5700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1449269295.264911922
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:48:15 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <5434>
+Thread      : spliced 7ffff7ff5700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1449269295.273260796
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:48:15 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <5434>
+Thread      : ddsi2 7fffcb3e1700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1449269295.368076300
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:48:15 EST 2015
+Description : The durability service can by identified by ID: 939745067
+Node        : user-Latitude-E6430
+Process     : CompassNode <5434>
+Thread      : durability 7fffcb75f700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1449269295.583295266
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:49:57 EST 2015
+Description : Not installing a signal handler for the already ignored signal 13.
+Node        : user-Latitude-E6430
+Process     : CompassNode <5512>
+Thread      : main thread 7ffff7fc9740
+Internals   : V6.4.3p1/e718b45/62ef77c/os_signalHandlerThread/os_signalHandler.c/816/0/1449269397.286454917
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:49:57 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : CompassNode <5512>
+Thread      : spliced 7ffff7ff5700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1449269397.298516772
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:49:57 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : CompassNode <5512>
+Thread      : spliced 7ffff7ff5700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1449269397.311958142
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:49:57 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : CompassNode <5512>
+Thread      : spliced 7ffff7ff5700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1449269397.315179600
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:49:57 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <5512>
+Thread      : spliced 7ffff7ff5700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1449269397.319759235
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:49:57 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <5512>
+Thread      : ddsi2 7fffcb3e1700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1449269397.412634527
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:49:57 EST 2015
+Description : The durability service can by identified by ID: 536773258
+Node        : user-Latitude-E6430
+Process     : CompassNode <5512>
+Thread      : durability 7fffcb75f700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1449269397.532249084
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:53:08 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : CompassNode <5590>
+Thread      : spliced 7ff04e402700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1449269588.260453001
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:53:08 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : CompassNode <5590>
+Thread      : spliced 7ff04e402700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1449269588.270042581
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:53:08 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : CompassNode <5590>
+Thread      : spliced 7ff04e402700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1449269588.270423374
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:53:08 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <5590>
+Thread      : spliced 7ff04e402700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1449269588.271080778
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:53:08 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <5590>
+Thread      : ddsi2 7ff0457e8700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1449269588.299188917
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:53:08 EST 2015
+Description : The durability service can by identified by ID: 814893877
+Node        : user-Latitude-E6430
+Process     : CompassNode <5590>
+Thread      : durability 7ff045b99700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1449269588.495709960
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:53:44 EST 2015
+Description : Not installing a signal handler for the already ignored signal 13.
+Node        : user-Latitude-E6430
+Process     : CompassNode <5642>
+Thread      : main thread 7ffff7fc9740
+Internals   : V6.4.3p1/e718b45/62ef77c/os_signalHandlerThread/os_signalHandler.c/816/0/1449269624.908075872
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:53:44 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : CompassNode <5642>
+Thread      : spliced 7ffff7ff5700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1449269624.919838423
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:53:44 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : CompassNode <5642>
+Thread      : spliced 7ffff7ff5700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1449269624.930174713
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:53:44 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : CompassNode <5642>
+Thread      : spliced 7ffff7ff5700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1449269624.933039949
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:53:44 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <5642>
+Thread      : spliced 7ffff7ff5700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1449269624.938172648
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:53:45 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <5642>
+Thread      : ddsi2 7fffcb3e1700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1449269625.033327986
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:53:45 EST 2015
+Description : The durability service can by identified by ID: 1696680348
+Node        : user-Latitude-E6430
+Process     : CompassNode <5642>
+Thread      : durability 7fffcb75f700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1449269625.157236215
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:53:55 EST 2015
+Description : Not installing a signal handler for the already ignored signal 13.
+Node        : user-Latitude-E6430
+Process     : CompassNode <5694>
+Thread      : main thread 7ffff7fc9740
+Internals   : V6.4.3p1/e718b45/62ef77c/os_signalHandlerThread/os_signalHandler.c/816/0/1449269635.044761070
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:53:55 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : CompassNode <5694>
+Thread      : spliced 7ffff7ff5700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1449269635.054234459
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:53:55 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : CompassNode <5694>
+Thread      : spliced 7ffff7ff5700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1449269635.061018106
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:53:55 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : CompassNode <5694>
+Thread      : spliced 7ffff7ff5700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1449269635.063096912
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:53:55 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <5694>
+Thread      : spliced 7ffff7ff5700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1449269635.067038259
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:53:55 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <5694>
+Thread      : ddsi2 7fffcb3e1700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1449269635.174522270
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:53:55 EST 2015
+Description : The durability service can by identified by ID: 490089476
+Node        : user-Latitude-E6430
+Process     : CompassNode <5694>
+Thread      : durability 7fffcb75f700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1449269635.489946153
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:57:19 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : CompassNode <5771>
+Thread      : spliced 7fc2f0151700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1449269839.822795106
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:57:19 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : CompassNode <5771>
+Thread      : spliced 7fc2f0151700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1449269839.835679596
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:57:19 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : CompassNode <5771>
+Thread      : spliced 7fc2f0151700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1449269839.836311999
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:57:19 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <5771>
+Thread      : spliced 7fc2f0151700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1449269839.837229801
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:57:19 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <5771>
+Thread      : ddsi2 7fc2bb530700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1449269839.858267403
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:57:20 EST 2015
+Description : The durability service can by identified by ID: 904177611
+Node        : user-Latitude-E6430
+Process     : CompassNode <5771>
+Thread      : durability 7fc2e8107700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1449269840.062068258
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:58:09 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : CompassNode <5840>
+Thread      : spliced 7f4a09a1b700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1449269889.826189151
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:58:09 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : CompassNode <5840>
+Thread      : spliced 7f4a09a1b700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1449269889.838829234
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:58:09 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : CompassNode <5840>
+Thread      : spliced 7f4a09a1b700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1449269889.839496165
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:58:09 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <5840>
+Thread      : spliced 7f4a09a1b700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1449269889.840265494
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:58:09 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <5840>
+Thread      : ddsi2 7f4a00e01700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1449269889.860566682
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:58:09 EST 2015
+Description : The durability service can by identified by ID: 1378338179
+Node        : user-Latitude-E6430
+Process     : CompassNode <5840>
+Thread      : durability 7f4a011b2700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1449269889.959074841
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 17:58:17 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : CompassNode <5840>
+Thread      : durability 7f4a011b2700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1449269897.465200192
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 18:04:17 EST 2015
+Description : Termination request (signal 2) received from PID 5840 (self), UID 1000
+Node        : user-Latitude-E6430
+Process     : CompassNode <5840>
+Thread      : signalHandler 7f4a020e3700
+Internals   : V6.4.3p1/e718b45/62ef77c/signalHandlerThread/os_signalHandler.c/526/0/1449270257.848538822
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 18:06:02 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : frame-grabber <5920>
+Thread      : spliced 7ffabd1e1700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1449270362.046996444
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 18:06:02 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : frame-grabber <5920>
+Thread      : spliced 7ffabd1e1700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1449270362.056086710
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 18:06:02 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : frame-grabber <5920>
+Thread      : spliced 7ffabd1e1700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1449270362.056448417
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 18:06:02 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : frame-grabber <5920>
+Thread      : spliced 7ffabd1e1700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1449270362.057139132
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 18:06:02 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : frame-grabber <5920>
+Thread      : ddsi2 7ffa8bd82700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1449270362.084330805
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 18:06:02 EST 2015
+Description : The durability service can by identified by ID: 1218389172
+Node        : user-Latitude-E6430
+Process     : frame-grabber <5920>
+Thread      : durability 7ffab4200700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1449270362.277933427
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 18:06:09 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : frame-grabber <5920>
+Thread      : durability 7ffab4200700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1449270369.783781735
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 18:06:11 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <6029>
+Thread      : spliced 7effb16fb700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1449270371.538481645
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 18:06:11 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <6029>
+Thread      : spliced 7effb16fb700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1449270371.544958368
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 18:06:11 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <6029>
+Thread      : spliced 7effb16fb700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1449270371.545317197
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 18:06:11 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <6029>
+Thread      : spliced 7effb16fb700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1449270371.545978116
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 18:06:11 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <6029>
+Thread      : ddsi2 7effa57c0700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1449270371.575540330
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 18:06:11 EST 2015
+Description : The durability service can by identified by ID: 935309785
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <6029>
+Thread      : durability 7effa5b71700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1449270371.966731550
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 18:06:19 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <6029>
+Thread      : durability 7effa5b71700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1449270379.471814255
+========================================================================================
+Report      : WARNING
+Date        : Fri Dec 04 18:06:32 EST 2015
+Description : Missed heartbeat for node - heartbeat id : 935309785. (DCPSPublication state 1)
+Node        : user-Latitude-E6430
+Process     : frame-grabber <5920>
+Thread      : OSPL Garbage Collector 7ffab4b21700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_spliced/v_spliced.c/2445/0/1449270392.068291330
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 18:06:42 EST 2015
+Description : Termination request (signal 2) received from PID 5920 (self), UID 1000
+Node        : user-Latitude-E6430
+Process     : frame-grabber <5920>
+Thread      : signalHandler 7ffab5131700
+Internals   : V6.4.3p1/e718b45/62ef77c/signalHandlerThread/os_signalHandler.c/526/0/1449270402.713909492
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 18:06:43 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : frame-grabber <6095>
+Thread      : spliced 7f1ceefd3700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1449270403.123293840
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 18:06:43 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : frame-grabber <6095>
+Thread      : spliced 7f1ceefd3700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1449270403.136308623
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 18:06:43 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : frame-grabber <6095>
+Thread      : spliced 7f1ceefd3700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1449270403.136916352
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 18:06:43 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : frame-grabber <6095>
+Thread      : spliced 7f1ceefd3700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1449270403.137721373
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 18:06:43 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : frame-grabber <6095>
+Thread      : ddsi2 7f1ce5c41700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1449270403.168448651
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 18:06:43 EST 2015
+Description : The durability service can by identified by ID: 1478554807
+Node        : user-Latitude-E6430
+Process     : frame-grabber <6095>
+Thread      : durability 7f1ce5ff2700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1449270403.462427616
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 18:06:50 EST 2015
+Description : u_domainNew:Database allocated on heap
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <6146>
+Thread      : spliced 7ff2f3a7d700
+Internals   : V6.4.3p1/e718b45/62ef77c/user::u_domain::u_domainNew/u_domain.c/718/0/1449270410.475970927
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 18:06:50 EST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <6146>
+Thread      : spliced 7ff2f3a7d700
+Internals   : V6.4.3p1/e718b45/62ef77c/The OpenSplice domain service/u_domain.c/842/0/1449270410.492168105
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 18:06:50 EST 2015
+Description : Service cmsoap disabled
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <6146>
+Thread      : spliced 7ff2f3a7d700
+Internals   : V6.4.3p1/e718b45/62ef77c/OpenSplice domain service/sr_componentInfo.c/439/0/1449270410.492739229
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 18:06:50 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <6146>
+Thread      : spliced 7ff2f3a7d700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1449270410.493530677
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 18:06:50 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <6146>
+Thread      : ddsi2 7ff2bbb32700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1449270410.524111184
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 18:06:50 EST 2015
+Description : The durability service can by identified by ID: 492678862
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <6146>
+Thread      : durability 7ff2e8143700
+Internals   : V6.4.3p1/e718b45/62ef77c/DurabilityService/d_durability.c/578/0/1449270410.827186229
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 18:06:50 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : frame-grabber <6095>
+Thread      : durability 7f1ce5ff2700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1449270410.967934523
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 18:06:58 EST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : user-Latitude-E6430
+Process     : video-stream-viewer <6146>
+Thread      : durability 7ff2e8143700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_serviceChangeState/v_service.c/320/0/1449270418.333635852
+========================================================================================
+Report      : WARNING
+Date        : Fri Dec 04 18:07:25 EST 2015
+Description : Missed heartbeat for node - heartbeat id : 492678862. (DCPSPublication state 1)
+Node        : user-Latitude-E6430
+Process     : frame-grabber <6095>
+Thread      : OSPL Garbage Collector 7f1ce6913700
+Internals   : V6.4.3p1/e718b45/62ef77c/v_spliced/v_spliced.c/2445/0/1449270445.144275901
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 04 18:19:29 EST 2015
+Description : Termination request (signal 2) received from PID 6095 (self), UID 1000
+Node        : user-Latitude-E6430
+Process     : frame-grabber <6095>
+Thread      : signalHandler 7f1ce6f23700
+Internals   : V6.4.3p1/e718b45/62ef77c/signalHandlerThread/os_signalHandler.c/526/0/1449271169.139154493
+========================================================================================
+Report      : WARNING
+Date        : Wed Dec 09 20:05:12 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2712>
+Thread      : 7ffdf6477740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1449709512.361627895
+========================================================================================
+Report      : WARNING
+Date        : Wed Dec 09 20:05:12 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2712>
+Thread      : 7ffdf6477740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1449709512.374036439
+========================================================================================
+Report      : WARNING
+Date        : Wed Dec 09 20:05:12 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2712>
+Thread      : 7ffdf6477740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1449709512.374075418
+========================================================================================
+Report      : WARNING
+Date        : Wed Dec 09 20:05:12 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2712>
+Thread      : 7ffdf6477740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1449709512.374096771
+========================================================================================
+Report      : WARNING
+Date        : Wed Dec 09 20:05:12 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2712>
+Thread      : 7ffdf6477740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1449709512.374116438
+========================================================================================
+Report      : WARNING
+Date        : Wed Dec 09 20:05:12 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2712>
+Thread      : 7ffdf6477740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1449709512.374134704
+========================================================================================
+Report      : WARNING
+Date        : Wed Dec 09 20:05:12 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2712>
+Thread      : 7ffdf6477740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1449709512.374152287
+========================================================================================
+Report      : WARNING
+Date        : Wed Dec 09 20:05:12 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2712>
+Thread      : 7ffdf6477740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1449709512.374169841
+========================================================================================
+Report      : WARNING
+Date        : Wed Dec 09 20:05:12 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2712>
+Thread      : 7ffdf6477740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1449709512.374187357
+========================================================================================
+Report      : WARNING
+Date        : Wed Dec 09 20:05:12 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2712>
+Thread      : 7ffdf6477740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1449709512.374218726
+========================================================================================
+Report      : WARNING
+Date        : Wed Dec 09 20:05:12 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2712>
+Thread      : 7ffdf6477740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1449709512.374237272
+========================================================================================
+Report      : WARNING
+Date        : Wed Dec 09 20:05:12 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2712>
+Thread      : 7ffdf6477740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1449709512.374254261
+========================================================================================
+Report      : WARNING
+Date        : Wed Dec 09 20:05:12 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2712>
+Thread      : 7ffdf6477740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1449709512.374270968
+========================================================================================
+Report      : WARNING
+Date        : Wed Dec 09 20:05:12 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2712>
+Thread      : 7ffdf6477740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1449709512.374287749
+========================================================================================
+Report      : WARNING
+Date        : Wed Dec 09 20:05:12 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2712>
+Thread      : 7ffdf6477740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1449709512.374304560
+========================================================================================
+Report      : WARNING
+Date        : Wed Dec 09 20:05:12 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2712>
+Thread      : 7ffdf6477740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1449709512.374321183
+========================================================================================
+Report      : WARNING
+Date        : Wed Dec 09 20:05:12 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2712>
+Thread      : 7ffdf6477740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1449709512.374337767
+========================================================================================
+Report      : WARNING
+Date        : Wed Dec 09 20:05:12 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2712>
+Thread      : 7ffdf6477740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1449709512.374354903
+========================================================================================
+Report      : WARNING
+Date        : Wed Dec 09 20:05:12 EST 2015
+Description : Given DomainParticipant is invalid: result = RETCODE_BAD_PARAMETER
+Node        : user-Latitude-E6430
+Process     : CompassNode <2712>
+Thread      : 7ffdf6477740
+Internals   : V6.4.3p1/e718b45/62ef77c/gapi_domainParticipant_delete_topic/gapi_domainParticipant.c/1517/0/1449709512.374378753
